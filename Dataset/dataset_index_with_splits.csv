@@ -1,0 +1,1125 @@
+image_path,class_name,class_id,sample_id,split
+../Dataset/Wheat varieties dataset/Dilkash/D12/Dilkash (36).jpg,Dilkash,1,D12,val
+../Dataset/Wheat varieties dataset/Dilkash/D12/Dilkash (34).jpg,Dilkash,1,D12,val
+../Dataset/Wheat varieties dataset/Dilkash/D12/Dilkash (35).jpg,Dilkash,1,D12,val
+../Dataset/Wheat varieties dataset/Dilkash/D15/Dilkash (45).jpg,Dilkash,1,D15,train
+../Dataset/Wheat varieties dataset/Dilkash/D15/Dilkash (44).jpg,Dilkash,1,D15,train
+../Dataset/Wheat varieties dataset/Dilkash/D15/Dilkash (43).jpg,Dilkash,1,D15,train
+../Dataset/Wheat varieties dataset/Dilkash/D23/Dilkash (67).jpg,Dilkash,1,D23,val
+../Dataset/Wheat varieties dataset/Dilkash/D23/Dilkash (69).jpg,Dilkash,1,D23,val
+../Dataset/Wheat varieties dataset/Dilkash/D23/Dilkash (68).jpg,Dilkash,1,D23,val
+../Dataset/Wheat varieties dataset/Dilkash/D104/Dilkash (311).jpg,Dilkash,1,D104,test
+../Dataset/Wheat varieties dataset/Dilkash/D104/Dilkash (310).jpg,Dilkash,1,D104,test
+../Dataset/Wheat varieties dataset/Dilkash/D104/Dilkash (312).jpg,Dilkash,1,D104,test
+../Dataset/Wheat varieties dataset/Dilkash/D103/Dilkash (307).jpg,Dilkash,1,D103,test
+../Dataset/Wheat varieties dataset/Dilkash/D103/Dilkash (309).jpg,Dilkash,1,D103,test
+../Dataset/Wheat varieties dataset/Dilkash/D103/Dilkash (308).jpg,Dilkash,1,D103,test
+../Dataset/Wheat varieties dataset/Dilkash/D24/Dilkash (71).jpg,Dilkash,1,D24,train
+../Dataset/Wheat varieties dataset/Dilkash/D24/Dilkash (70).jpg,Dilkash,1,D24,train
+../Dataset/Wheat varieties dataset/Dilkash/D24/Dilkash (72).jpg,Dilkash,1,D24,train
+../Dataset/Wheat varieties dataset/Dilkash/D70/Dilkash (209).jpg,Dilkash,1,D70,train
+../Dataset/Wheat varieties dataset/Dilkash/D70/Dilkash (208).jpg,Dilkash,1,D70,train
+../Dataset/Wheat varieties dataset/Dilkash/D70/Dilkash (210).jpg,Dilkash,1,D70,train
+../Dataset/Wheat varieties dataset/Dilkash/D84/Dilkash (252).jpg,Dilkash,1,D84,train
+../Dataset/Wheat varieties dataset/Dilkash/D84/Dilkash (250).jpg,Dilkash,1,D84,train
+../Dataset/Wheat varieties dataset/Dilkash/D84/Dilkash (251).jpg,Dilkash,1,D84,train
+../Dataset/Wheat varieties dataset/Dilkash/D83/Dilkash (248).jpg,Dilkash,1,D83,test
+../Dataset/Wheat varieties dataset/Dilkash/D83/Dilkash (249).jpg,Dilkash,1,D83,test
+../Dataset/Wheat varieties dataset/Dilkash/D83/Dilkash (247).jpg,Dilkash,1,D83,test
+../Dataset/Wheat varieties dataset/Dilkash/D77/Dilkash (229).jpg,Dilkash,1,D77,train
+../Dataset/Wheat varieties dataset/Dilkash/D77/Dilkash (231).jpg,Dilkash,1,D77,train
+../Dataset/Wheat varieties dataset/Dilkash/D77/Dilkash (230).jpg,Dilkash,1,D77,train
+../Dataset/Wheat varieties dataset/Dilkash/D48/Dilkash (143).jpg,Dilkash,1,D48,train
+../Dataset/Wheat varieties dataset/Dilkash/D48/Dilkash (142).jpg,Dilkash,1,D48,train
+../Dataset/Wheat varieties dataset/Dilkash/D48/Dilkash (144).jpg,Dilkash,1,D48,train
+../Dataset/Wheat varieties dataset/Dilkash/D41/Dilkash (121).jpg,Dilkash,1,D41,train
+../Dataset/Wheat varieties dataset/Dilkash/D41/Dilkash (122).jpg,Dilkash,1,D41,train
+../Dataset/Wheat varieties dataset/Dilkash/D41/Dilkash (123).jpg,Dilkash,1,D41,train
+../Dataset/Wheat varieties dataset/Dilkash/D46/Dilkash (136).jpg,Dilkash,1,D46,train
+../Dataset/Wheat varieties dataset/Dilkash/D46/Dilkash (137).jpg,Dilkash,1,D46,train
+../Dataset/Wheat varieties dataset/Dilkash/D46/Dilkash (138).jpg,Dilkash,1,D46,train
+../Dataset/Wheat varieties dataset/Dilkash/D79/Dilkash (235).jpg,Dilkash,1,D79,test
+../Dataset/Wheat varieties dataset/Dilkash/D79/Dilkash (237).jpg,Dilkash,1,D79,test
+../Dataset/Wheat varieties dataset/Dilkash/D79/Dilkash (236).jpg,Dilkash,1,D79,test
+../Dataset/Wheat varieties dataset/Dilkash/D25/Dilkash (73).jpg,Dilkash,1,D25,test
+../Dataset/Wheat varieties dataset/Dilkash/D25/Dilkash (75).jpg,Dilkash,1,D25,test
+../Dataset/Wheat varieties dataset/Dilkash/D25/Dilkash (74).jpg,Dilkash,1,D25,test
+../Dataset/Wheat varieties dataset/Dilkash/D102/Dilkash (306).jpg,Dilkash,1,D102,train
+../Dataset/Wheat varieties dataset/Dilkash/D102/Dilkash (305).jpg,Dilkash,1,D102,train
+../Dataset/Wheat varieties dataset/Dilkash/D102/Dilkash (304).jpg,Dilkash,1,D102,train
+../Dataset/Wheat varieties dataset/Dilkash/D105/Dilkash (315).jpg,Dilkash,1,D105,train
+../Dataset/Wheat varieties dataset/Dilkash/D105/Dilkash (314).jpg,Dilkash,1,D105,train
+../Dataset/Wheat varieties dataset/Dilkash/D105/Dilkash (313).jpg,Dilkash,1,D105,train
+../Dataset/Wheat varieties dataset/Dilkash/D22/Dilkash (66).jpg,Dilkash,1,D22,train
+../Dataset/Wheat varieties dataset/Dilkash/D22/Dilkash (65).jpg,Dilkash,1,D22,train
+../Dataset/Wheat varieties dataset/Dilkash/D22/Dilkash (64).jpg,Dilkash,1,D22,train
+../Dataset/Wheat varieties dataset/Dilkash/D14/Dilkash (41).jpg,Dilkash,1,D14,train
+../Dataset/Wheat varieties dataset/Dilkash/D14/Dilkash (40).jpg,Dilkash,1,D14,train
+../Dataset/Wheat varieties dataset/Dilkash/D14/Dilkash (42).jpg,Dilkash,1,D14,train
+../Dataset/Wheat varieties dataset/Dilkash/D13/Dilkash (37).jpg,Dilkash,1,D13,train
+../Dataset/Wheat varieties dataset/Dilkash/D13/Dilkash (38).jpg,Dilkash,1,D13,train
+../Dataset/Wheat varieties dataset/Dilkash/D13/Dilkash (39).jpg,Dilkash,1,D13,train
+../Dataset/Wheat varieties dataset/Dilkash/D47/Dilkash (141).jpg,Dilkash,1,D47,train
+../Dataset/Wheat varieties dataset/Dilkash/D47/Dilkash (140).jpg,Dilkash,1,D47,train
+../Dataset/Wheat varieties dataset/Dilkash/D47/Dilkash (139).jpg,Dilkash,1,D47,train
+../Dataset/Wheat varieties dataset/Dilkash/D78/Dilkash (234).jpg,Dilkash,1,D78,train
+../Dataset/Wheat varieties dataset/Dilkash/D78/Dilkash (233).jpg,Dilkash,1,D78,train
+../Dataset/Wheat varieties dataset/Dilkash/D78/Dilkash (232).jpg,Dilkash,1,D78,train
+../Dataset/Wheat varieties dataset/Dilkash/D40/Dilkash (120).jpg,Dilkash,1,D40,test
+../Dataset/Wheat varieties dataset/Dilkash/D40/Dilkash (118).jpg,Dilkash,1,D40,test
+../Dataset/Wheat varieties dataset/Dilkash/D40/Dilkash (119).jpg,Dilkash,1,D40,test
+../Dataset/Wheat varieties dataset/Dilkash/D76/Dilkash (228).jpg,Dilkash,1,D76,train
+../Dataset/Wheat varieties dataset/Dilkash/D76/Dilkash (227).jpg,Dilkash,1,D76,train
+../Dataset/Wheat varieties dataset/Dilkash/D76/Dilkash (226).jpg,Dilkash,1,D76,train
+../Dataset/Wheat varieties dataset/Dilkash/D82/Dilkash (244).jpg,Dilkash,1,D82,train
+../Dataset/Wheat varieties dataset/Dilkash/D82/Dilkash (245).jpg,Dilkash,1,D82,train
+../Dataset/Wheat varieties dataset/Dilkash/D82/Dilkash (246).jpg,Dilkash,1,D82,train
+../Dataset/Wheat varieties dataset/Dilkash/D49/Dilkash (147).jpg,Dilkash,1,D49,train
+../Dataset/Wheat varieties dataset/Dilkash/D49/Dilkash (146).jpg,Dilkash,1,D49,train
+../Dataset/Wheat varieties dataset/Dilkash/D49/Dilkash (145).jpg,Dilkash,1,D49,train
+../Dataset/Wheat varieties dataset/Dilkash/D85/Dilkash (254).jpg,Dilkash,1,D85,test
+../Dataset/Wheat varieties dataset/Dilkash/D85/Dilkash (255).jpg,Dilkash,1,D85,test
+../Dataset/Wheat varieties dataset/Dilkash/D85/Dilkash (253).jpg,Dilkash,1,D85,test
+../Dataset/Wheat varieties dataset/Dilkash/D71/Dilkash (213).jpg,Dilkash,1,D71,train
+../Dataset/Wheat varieties dataset/Dilkash/D71/Dilkash (212).jpg,Dilkash,1,D71,train
+../Dataset/Wheat varieties dataset/Dilkash/D71/Dilkash (211).jpg,Dilkash,1,D71,train
+../Dataset/Wheat varieties dataset/Dilkash/D9/Dilkash (26).jpg,Dilkash,1,D9,val
+../Dataset/Wheat varieties dataset/Dilkash/D9/Dilkash (27).jpg,Dilkash,1,D9,val
+../Dataset/Wheat varieties dataset/Dilkash/D9/Dilkash (25).jpg,Dilkash,1,D9,val
+../Dataset/Wheat varieties dataset/Dilkash/D7/Dilkash (20).jpg,Dilkash,1,D7,train
+../Dataset/Wheat varieties dataset/Dilkash/D7/Dilkash (21).jpg,Dilkash,1,D7,train
+../Dataset/Wheat varieties dataset/Dilkash/D7/Dilkash (19).jpg,Dilkash,1,D7,train
+../Dataset/Wheat varieties dataset/Dilkash/D1/Dilkash (1).jpg,Dilkash,1,D1,train
+../Dataset/Wheat varieties dataset/Dilkash/D1/Dilkash (2).jpg,Dilkash,1,D1,train
+../Dataset/Wheat varieties dataset/Dilkash/D1/Dilkash (3).jpg,Dilkash,1,D1,train
+../Dataset/Wheat varieties dataset/Dilkash/D6/Dilkash (16).jpg,Dilkash,1,D6,train
+../Dataset/Wheat varieties dataset/Dilkash/D6/Dilkash (17).jpg,Dilkash,1,D6,train
+../Dataset/Wheat varieties dataset/Dilkash/D6/Dilkash (18).jpg,Dilkash,1,D6,train
+../Dataset/Wheat varieties dataset/Dilkash/D8/Dilkash (24).jpg,Dilkash,1,D8,train
+../Dataset/Wheat varieties dataset/Dilkash/D8/Dilkash (22).jpg,Dilkash,1,D8,train
+../Dataset/Wheat varieties dataset/Dilkash/D8/Dilkash (23).jpg,Dilkash,1,D8,train
+../Dataset/Wheat varieties dataset/Dilkash/D98/Dilkash (293).jpg,Dilkash,1,D98,train
+../Dataset/Wheat varieties dataset/Dilkash/D98/Dilkash (292).jpg,Dilkash,1,D98,train
+../Dataset/Wheat varieties dataset/Dilkash/D98/Dilkash (294).jpg,Dilkash,1,D98,train
+../Dataset/Wheat varieties dataset/Dilkash/D53/Dilkash (157).jpg,Dilkash,1,D53,val
+../Dataset/Wheat varieties dataset/Dilkash/D53/Dilkash (159).jpg,Dilkash,1,D53,val
+../Dataset/Wheat varieties dataset/Dilkash/D53/Dilkash (158).jpg,Dilkash,1,D53,val
+../Dataset/Wheat varieties dataset/Dilkash/D54/Dilkash (161).jpg,Dilkash,1,D54,test
+../Dataset/Wheat varieties dataset/Dilkash/D54/Dilkash (160).jpg,Dilkash,1,D54,test
+../Dataset/Wheat varieties dataset/Dilkash/D54/Dilkash (162).jpg,Dilkash,1,D54,test
+../Dataset/Wheat varieties dataset/Dilkash/D62/Dilkash (184).jpg,Dilkash,1,D62,test
+../Dataset/Wheat varieties dataset/Dilkash/D62/Dilkash (185).jpg,Dilkash,1,D62,test
+../Dataset/Wheat varieties dataset/Dilkash/D62/Dilkash (186).jpg,Dilkash,1,D62,test
+../Dataset/Wheat varieties dataset/Dilkash/D96/Dilkash (287).jpg,Dilkash,1,D96,train
+../Dataset/Wheat varieties dataset/Dilkash/D96/Dilkash (286).jpg,Dilkash,1,D96,train
+../Dataset/Wheat varieties dataset/Dilkash/D96/Dilkash (288).jpg,Dilkash,1,D96,train
+../Dataset/Wheat varieties dataset/Dilkash/D91/Dilkash (272).jpg,Dilkash,1,D91,train
+../Dataset/Wheat varieties dataset/Dilkash/D91/Dilkash (273).jpg,Dilkash,1,D91,train
+../Dataset/Wheat varieties dataset/Dilkash/D91/Dilkash (271).jpg,Dilkash,1,D91,train
+../Dataset/Wheat varieties dataset/Dilkash/D65/Dilkash (193).jpg,Dilkash,1,D65,train
+../Dataset/Wheat varieties dataset/Dilkash/D65/Dilkash (194).jpg,Dilkash,1,D65,train
+../Dataset/Wheat varieties dataset/Dilkash/D65/Dilkash (195).jpg,Dilkash,1,D65,train
+../Dataset/Wheat varieties dataset/Dilkash/D116/Dilkash (346).jpg,Dilkash,1,D116,train
+../Dataset/Wheat varieties dataset/Dilkash/D116/Dilkash (347).jpg,Dilkash,1,D116,train
+../Dataset/Wheat varieties dataset/Dilkash/D116/Dilkash (348).jpg,Dilkash,1,D116,train
+../Dataset/Wheat varieties dataset/Dilkash/D31/Dilkash (92).jpg,Dilkash,1,D31,val
+../Dataset/Wheat varieties dataset/Dilkash/D31/Dilkash (93).jpg,Dilkash,1,D31,val
+../Dataset/Wheat varieties dataset/Dilkash/D31/Dilkash (91).jpg,Dilkash,1,D31,val
+../Dataset/Wheat varieties dataset/Dilkash/D36/Dilkash (106).jpg,Dilkash,1,D36,test
+../Dataset/Wheat varieties dataset/Dilkash/D36/Dilkash (107).jpg,Dilkash,1,D36,test
+../Dataset/Wheat varieties dataset/Dilkash/D36/Dilkash (108).jpg,Dilkash,1,D36,test
+../Dataset/Wheat varieties dataset/Dilkash/D111/Dilkash (331).jpg,Dilkash,1,D111,val
+../Dataset/Wheat varieties dataset/Dilkash/D111/Dilkash (333).jpg,Dilkash,1,D111,val
+../Dataset/Wheat varieties dataset/Dilkash/D111/Dilkash (332).jpg,Dilkash,1,D111,val
+../Dataset/Wheat varieties dataset/Dilkash/D118/Dilkash (354).jpg,Dilkash,1,D118,train
+../Dataset/Wheat varieties dataset/Dilkash/D118/Dilkash (352).jpg,Dilkash,1,D118,train
+../Dataset/Wheat varieties dataset/Dilkash/D118/Dilkash (353).jpg,Dilkash,1,D118,train
+../Dataset/Wheat varieties dataset/Dilkash/D120/Dilkash (360).jpg,Dilkash,1,D120,train
+../Dataset/Wheat varieties dataset/Dilkash/D120/Dilkash (358).jpg,Dilkash,1,D120,train
+../Dataset/Wheat varieties dataset/Dilkash/D120/Dilkash (359).jpg,Dilkash,1,D120,train
+../Dataset/Wheat varieties dataset/Dilkash/D38/Dilkash (114).jpg,Dilkash,1,D38,val
+../Dataset/Wheat varieties dataset/Dilkash/D38/Dilkash (112).jpg,Dilkash,1,D38,val
+../Dataset/Wheat varieties dataset/Dilkash/D38/Dilkash (113).jpg,Dilkash,1,D38,val
+../Dataset/Wheat varieties dataset/Dilkash/D64/Dilkash (192).jpg,Dilkash,1,D64,train
+../Dataset/Wheat varieties dataset/Dilkash/D64/Dilkash (190).jpg,Dilkash,1,D64,train
+../Dataset/Wheat varieties dataset/Dilkash/D64/Dilkash (191).jpg,Dilkash,1,D64,train
+../Dataset/Wheat varieties dataset/Dilkash/D90/Dilkash (268).jpg,Dilkash,1,D90,train
+../Dataset/Wheat varieties dataset/Dilkash/D90/Dilkash (269).jpg,Dilkash,1,D90,train
+../Dataset/Wheat varieties dataset/Dilkash/D90/Dilkash (270).jpg,Dilkash,1,D90,train
+../Dataset/Wheat varieties dataset/Dilkash/D97/Dilkash (291).jpg,Dilkash,1,D97,train
+../Dataset/Wheat varieties dataset/Dilkash/D97/Dilkash (290).jpg,Dilkash,1,D97,train
+../Dataset/Wheat varieties dataset/Dilkash/D97/Dilkash (289).jpg,Dilkash,1,D97,train
+../Dataset/Wheat varieties dataset/Dilkash/D63/Dilkash (188).jpg,Dilkash,1,D63,test
+../Dataset/Wheat varieties dataset/Dilkash/D63/Dilkash (189).jpg,Dilkash,1,D63,test
+../Dataset/Wheat varieties dataset/Dilkash/D63/Dilkash (187).jpg,Dilkash,1,D63,test
+../Dataset/Wheat varieties dataset/Dilkash/D55/Dilkash (163).jpg,Dilkash,1,D55,val
+../Dataset/Wheat varieties dataset/Dilkash/D55/Dilkash (165).jpg,Dilkash,1,D55,val
+../Dataset/Wheat varieties dataset/Dilkash/D55/Dilkash (164).jpg,Dilkash,1,D55,val
+../Dataset/Wheat varieties dataset/Dilkash/D99/Dilkash (297).jpg,Dilkash,1,D99,train
+../Dataset/Wheat varieties dataset/Dilkash/D99/Dilkash (296).jpg,Dilkash,1,D99,train
+../Dataset/Wheat varieties dataset/Dilkash/D99/Dilkash (295).jpg,Dilkash,1,D99,train
+../Dataset/Wheat varieties dataset/Dilkash/D52/Dilkash (156).jpg,Dilkash,1,D52,train
+../Dataset/Wheat varieties dataset/Dilkash/D52/Dilkash (155).jpg,Dilkash,1,D52,train
+../Dataset/Wheat varieties dataset/Dilkash/D52/Dilkash (154).jpg,Dilkash,1,D52,train
+../Dataset/Wheat varieties dataset/Dilkash/D121/Dilkash (361).jpg,Dilkash,1,D121,train
+../Dataset/Wheat varieties dataset/Dilkash/D121/Dilkash (362).jpg,Dilkash,1,D121,train
+../Dataset/Wheat varieties dataset/Dilkash/D121/Dilkash (363).jpg,Dilkash,1,D121,train
+../Dataset/Wheat varieties dataset/Dilkash/D39/Dilkash (116).jpg,Dilkash,1,D39,train
+../Dataset/Wheat varieties dataset/Dilkash/D39/Dilkash (117).jpg,Dilkash,1,D39,train
+../Dataset/Wheat varieties dataset/Dilkash/D39/Dilkash (115).jpg,Dilkash,1,D39,train
+../Dataset/Wheat varieties dataset/Dilkash/D119/Dilkash (356).jpg,Dilkash,1,D119,train
+../Dataset/Wheat varieties dataset/Dilkash/D119/Dilkash (357).jpg,Dilkash,1,D119,train
+../Dataset/Wheat varieties dataset/Dilkash/D119/Dilkash (355).jpg,Dilkash,1,D119,train
+../Dataset/Wheat varieties dataset/Dilkash/D110/Dilkash (330).jpg,Dilkash,1,D110,train
+../Dataset/Wheat varieties dataset/Dilkash/D110/Dilkash (329).jpg,Dilkash,1,D110,train
+../Dataset/Wheat varieties dataset/Dilkash/D110/Dilkash (328).jpg,Dilkash,1,D110,train
+../Dataset/Wheat varieties dataset/Dilkash/D37/Dilkash (110).jpg,Dilkash,1,D37,train
+../Dataset/Wheat varieties dataset/Dilkash/D37/Dilkash (111).jpg,Dilkash,1,D37,train
+../Dataset/Wheat varieties dataset/Dilkash/D37/Dilkash (109).jpg,Dilkash,1,D37,train
+../Dataset/Wheat varieties dataset/Dilkash/D30/Dilkash (88).jpg,Dilkash,1,D30,train
+../Dataset/Wheat varieties dataset/Dilkash/D30/Dilkash (89).jpg,Dilkash,1,D30,train
+../Dataset/Wheat varieties dataset/Dilkash/D30/Dilkash (90).jpg,Dilkash,1,D30,train
+../Dataset/Wheat varieties dataset/Dilkash/D117/Dilkash (350).jpg,Dilkash,1,D117,train
+../Dataset/Wheat varieties dataset/Dilkash/D117/Dilkash (351).jpg,Dilkash,1,D117,train
+../Dataset/Wheat varieties dataset/Dilkash/D117/Dilkash (349).jpg,Dilkash,1,D117,train
+../Dataset/Wheat varieties dataset/Dilkash/D80/Dilkash (239).jpg,Dilkash,1,D80,val
+../Dataset/Wheat varieties dataset/Dilkash/D80/Dilkash (238).jpg,Dilkash,1,D80,val
+../Dataset/Wheat varieties dataset/Dilkash/D80/Dilkash (240).jpg,Dilkash,1,D80,val
+../Dataset/Wheat varieties dataset/Dilkash/D74/Dilkash (222).jpg,Dilkash,1,D74,val
+../Dataset/Wheat varieties dataset/Dilkash/D74/Dilkash (221).jpg,Dilkash,1,D74,val
+../Dataset/Wheat varieties dataset/Dilkash/D74/Dilkash (220).jpg,Dilkash,1,D74,val
+../Dataset/Wheat varieties dataset/Dilkash/D73/Dilkash (219).jpg,Dilkash,1,D73,train
+../Dataset/Wheat varieties dataset/Dilkash/D73/Dilkash (218).jpg,Dilkash,1,D73,train
+../Dataset/Wheat varieties dataset/Dilkash/D73/Dilkash (217).jpg,Dilkash,1,D73,train
+../Dataset/Wheat varieties dataset/Dilkash/D87/Dilkash (259).jpg,Dilkash,1,D87,val
+../Dataset/Wheat varieties dataset/Dilkash/D87/Dilkash (260).jpg,Dilkash,1,D87,val
+../Dataset/Wheat varieties dataset/Dilkash/D87/Dilkash (261).jpg,Dilkash,1,D87,val
+../Dataset/Wheat varieties dataset/Dilkash/D45/Dilkash (134).jpg,Dilkash,1,D45,train
+../Dataset/Wheat varieties dataset/Dilkash/D45/Dilkash (135).jpg,Dilkash,1,D45,train
+../Dataset/Wheat varieties dataset/Dilkash/D45/Dilkash (133).jpg,Dilkash,1,D45,train
+../Dataset/Wheat varieties dataset/Dilkash/D42/Dilkash (126).jpg,Dilkash,1,D42,train
+../Dataset/Wheat varieties dataset/Dilkash/D42/Dilkash (124).jpg,Dilkash,1,D42,train
+../Dataset/Wheat varieties dataset/Dilkash/D42/Dilkash (125).jpg,Dilkash,1,D42,train
+../Dataset/Wheat varieties dataset/Dilkash/D89/Dilkash (265).jpg,Dilkash,1,D89,train
+../Dataset/Wheat varieties dataset/Dilkash/D89/Dilkash (266).jpg,Dilkash,1,D89,train
+../Dataset/Wheat varieties dataset/Dilkash/D89/Dilkash (267).jpg,Dilkash,1,D89,train
+../Dataset/Wheat varieties dataset/Dilkash/D29/Dilkash (85).jpg,Dilkash,1,D29,train
+../Dataset/Wheat varieties dataset/Dilkash/D29/Dilkash (86).jpg,Dilkash,1,D29,train
+../Dataset/Wheat varieties dataset/Dilkash/D29/Dilkash (87).jpg,Dilkash,1,D29,train
+../Dataset/Wheat varieties dataset/Dilkash/D16/Dilkash (47).jpg,Dilkash,1,D16,train
+../Dataset/Wheat varieties dataset/Dilkash/D16/Dilkash (46).jpg,Dilkash,1,D16,train
+../Dataset/Wheat varieties dataset/Dilkash/D16/Dilkash (48).jpg,Dilkash,1,D16,train
+../Dataset/Wheat varieties dataset/Dilkash/D109/Dilkash (327).jpg,Dilkash,1,D109,train
+../Dataset/Wheat varieties dataset/Dilkash/D109/Dilkash (326).jpg,Dilkash,1,D109,train
+../Dataset/Wheat varieties dataset/Dilkash/D109/Dilkash (325).jpg,Dilkash,1,D109,train
+../Dataset/Wheat varieties dataset/Dilkash/D11/Dilkash (31).jpg,Dilkash,1,D11,train
+../Dataset/Wheat varieties dataset/Dilkash/D11/Dilkash (32).jpg,Dilkash,1,D11,train
+../Dataset/Wheat varieties dataset/Dilkash/D11/Dilkash (33).jpg,Dilkash,1,D11,train
+../Dataset/Wheat varieties dataset/Dilkash/D18/Dilkash (53).jpg,Dilkash,1,D18,train
+../Dataset/Wheat varieties dataset/Dilkash/D18/Dilkash (52).jpg,Dilkash,1,D18,train
+../Dataset/Wheat varieties dataset/Dilkash/D18/Dilkash (54).jpg,Dilkash,1,D18,train
+../Dataset/Wheat varieties dataset/Dilkash/D27/Dilkash (80).jpg,Dilkash,1,D27,train
+../Dataset/Wheat varieties dataset/Dilkash/D27/Dilkash (79).jpg,Dilkash,1,D27,train
+../Dataset/Wheat varieties dataset/Dilkash/D27/Dilkash (81).jpg,Dilkash,1,D27,train
+../Dataset/Wheat varieties dataset/Dilkash/D100/Dilkash (300).jpg,Dilkash,1,D100,train
+../Dataset/Wheat varieties dataset/Dilkash/D100/Dilkash (299).jpg,Dilkash,1,D100,train
+../Dataset/Wheat varieties dataset/Dilkash/D100/Dilkash (298).jpg,Dilkash,1,D100,train
+../Dataset/Wheat varieties dataset/Dilkash/D107/Dilkash (321).jpg,Dilkash,1,D107,train
+../Dataset/Wheat varieties dataset/Dilkash/D107/Dilkash (320).jpg,Dilkash,1,D107,train
+../Dataset/Wheat varieties dataset/Dilkash/D107/Dilkash (319).jpg,Dilkash,1,D107,train
+../Dataset/Wheat varieties dataset/Dilkash/D20/Dilkash (60).jpg,Dilkash,1,D20,val
+../Dataset/Wheat varieties dataset/Dilkash/D20/Dilkash (59).jpg,Dilkash,1,D20,val
+../Dataset/Wheat varieties dataset/Dilkash/D20/Dilkash (58).jpg,Dilkash,1,D20,val
+../Dataset/Wheat varieties dataset/Dilkash/D43/Dilkash (127).jpg,Dilkash,1,D43,val
+../Dataset/Wheat varieties dataset/Dilkash/D43/Dilkash (128).jpg,Dilkash,1,D43,val
+../Dataset/Wheat varieties dataset/Dilkash/D43/Dilkash (129).jpg,Dilkash,1,D43,val
+../Dataset/Wheat varieties dataset/Dilkash/D88/Dilkash (262).jpg,Dilkash,1,D88,val
+../Dataset/Wheat varieties dataset/Dilkash/D88/Dilkash (263).jpg,Dilkash,1,D88,val
+../Dataset/Wheat varieties dataset/Dilkash/D88/Dilkash (264).jpg,Dilkash,1,D88,val
+../Dataset/Wheat varieties dataset/Dilkash/D44/Dilkash (130).jpg,Dilkash,1,D44,train
+../Dataset/Wheat varieties dataset/Dilkash/D44/Dilkash (131).jpg,Dilkash,1,D44,train
+../Dataset/Wheat varieties dataset/Dilkash/D44/Dilkash (132).jpg,Dilkash,1,D44,train
+../Dataset/Wheat varieties dataset/Dilkash/D86/Dilkash (258).jpg,Dilkash,1,D86,train
+../Dataset/Wheat varieties dataset/Dilkash/D86/Dilkash (256).jpg,Dilkash,1,D86,train
+../Dataset/Wheat varieties dataset/Dilkash/D86/Dilkash (257).jpg,Dilkash,1,D86,train
+../Dataset/Wheat varieties dataset/Dilkash/D72/Dilkash (215).jpg,Dilkash,1,D72,train
+../Dataset/Wheat varieties dataset/Dilkash/D72/Dilkash (214).jpg,Dilkash,1,D72,train
+../Dataset/Wheat varieties dataset/Dilkash/D72/Dilkash (216).jpg,Dilkash,1,D72,train
+../Dataset/Wheat varieties dataset/Dilkash/D75/Dilkash (223).jpg,Dilkash,1,D75,train
+../Dataset/Wheat varieties dataset/Dilkash/D75/Dilkash (225).jpg,Dilkash,1,D75,train
+../Dataset/Wheat varieties dataset/Dilkash/D75/Dilkash (224).jpg,Dilkash,1,D75,train
+../Dataset/Wheat varieties dataset/Dilkash/D81/Dilkash (242).jpg,Dilkash,1,D81,train
+../Dataset/Wheat varieties dataset/Dilkash/D81/Dilkash (243).jpg,Dilkash,1,D81,train
+../Dataset/Wheat varieties dataset/Dilkash/D81/Dilkash (241).jpg,Dilkash,1,D81,train
+../Dataset/Wheat varieties dataset/Dilkash/D21/Dilkash (61).jpg,Dilkash,1,D21,train
+../Dataset/Wheat varieties dataset/Dilkash/D21/Dilkash (63).jpg,Dilkash,1,D21,train
+../Dataset/Wheat varieties dataset/Dilkash/D21/Dilkash (62).jpg,Dilkash,1,D21,train
+../Dataset/Wheat varieties dataset/Dilkash/D106/Dilkash (317).jpg,Dilkash,1,D106,val
+../Dataset/Wheat varieties dataset/Dilkash/D106/Dilkash (316).jpg,Dilkash,1,D106,val
+../Dataset/Wheat varieties dataset/Dilkash/D106/Dilkash (318).jpg,Dilkash,1,D106,val
+../Dataset/Wheat varieties dataset/Dilkash/D19/Dilkash (57).jpg,Dilkash,1,D19,train
+../Dataset/Wheat varieties dataset/Dilkash/D19/Dilkash (56).jpg,Dilkash,1,D19,train
+../Dataset/Wheat varieties dataset/Dilkash/D19/Dilkash (55).jpg,Dilkash,1,D19,train
+../Dataset/Wheat varieties dataset/Dilkash/D101/Dilkash (301).jpg,Dilkash,1,D101,val
+../Dataset/Wheat varieties dataset/Dilkash/D101/Dilkash (303).jpg,Dilkash,1,D101,val
+../Dataset/Wheat varieties dataset/Dilkash/D101/Dilkash (302).jpg,Dilkash,1,D101,val
+../Dataset/Wheat varieties dataset/Dilkash/D26/Dilkash (77).jpg,Dilkash,1,D26,train
+../Dataset/Wheat varieties dataset/Dilkash/D26/Dilkash (76).jpg,Dilkash,1,D26,train
+../Dataset/Wheat varieties dataset/Dilkash/D26/Dilkash (78).jpg,Dilkash,1,D26,train
+../Dataset/Wheat varieties dataset/Dilkash/D108/Dilkash (323).jpg,Dilkash,1,D108,test
+../Dataset/Wheat varieties dataset/Dilkash/D108/Dilkash (322).jpg,Dilkash,1,D108,test
+../Dataset/Wheat varieties dataset/Dilkash/D108/Dilkash (324).jpg,Dilkash,1,D108,test
+../Dataset/Wheat varieties dataset/Dilkash/D10/Dilkash (30).jpg,Dilkash,1,D10,test
+../Dataset/Wheat varieties dataset/Dilkash/D10/Dilkash (28).jpg,Dilkash,1,D10,test
+../Dataset/Wheat varieties dataset/Dilkash/D10/Dilkash (29).jpg,Dilkash,1,D10,test
+../Dataset/Wheat varieties dataset/Dilkash/D28/Dilkash (82).jpg,Dilkash,1,D28,train
+../Dataset/Wheat varieties dataset/Dilkash/D28/Dilkash (83).jpg,Dilkash,1,D28,train
+../Dataset/Wheat varieties dataset/Dilkash/D28/Dilkash (84).jpg,Dilkash,1,D28,train
+../Dataset/Wheat varieties dataset/Dilkash/D17/Dilkash (51).jpg,Dilkash,1,D17,train
+../Dataset/Wheat varieties dataset/Dilkash/D17/Dilkash (50).jpg,Dilkash,1,D17,train
+../Dataset/Wheat varieties dataset/Dilkash/D17/Dilkash (49).jpg,Dilkash,1,D17,train
+../Dataset/Wheat varieties dataset/Dilkash/D3/Dilkash (7).jpg,Dilkash,1,D3,train
+../Dataset/Wheat varieties dataset/Dilkash/D3/Dilkash (8).jpg,Dilkash,1,D3,train
+../Dataset/Wheat varieties dataset/Dilkash/D3/Dilkash (9).jpg,Dilkash,1,D3,train
+../Dataset/Wheat varieties dataset/Dilkash/D4/Dilkash (10).jpg,Dilkash,1,D4,train
+../Dataset/Wheat varieties dataset/Dilkash/D4/Dilkash (11).jpg,Dilkash,1,D4,train
+../Dataset/Wheat varieties dataset/Dilkash/D4/Dilkash (12).jpg,Dilkash,1,D4,train
+../Dataset/Wheat varieties dataset/Dilkash/D5/Dilkash (13).jpg,Dilkash,1,D5,train
+../Dataset/Wheat varieties dataset/Dilkash/D5/Dilkash (14).jpg,Dilkash,1,D5,train
+../Dataset/Wheat varieties dataset/Dilkash/D5/Dilkash (15).jpg,Dilkash,1,D5,train
+../Dataset/Wheat varieties dataset/Dilkash/D2/Dilkash (6).jpg,Dilkash,1,D2,train
+../Dataset/Wheat varieties dataset/Dilkash/D2/Dilkash (4).jpg,Dilkash,1,D2,train
+../Dataset/Wheat varieties dataset/Dilkash/D2/Dilkash (5).jpg,Dilkash,1,D2,train
+../Dataset/Wheat varieties dataset/Dilkash/D112/Dilkash (336).jpg,Dilkash,1,D112,train
+../Dataset/Wheat varieties dataset/Dilkash/D112/Dilkash (335).jpg,Dilkash,1,D112,train
+../Dataset/Wheat varieties dataset/Dilkash/D112/Dilkash (334).jpg,Dilkash,1,D112,train
+../Dataset/Wheat varieties dataset/Dilkash/D35/Dilkash (103).jpg,Dilkash,1,D35,val
+../Dataset/Wheat varieties dataset/Dilkash/D35/Dilkash (104).jpg,Dilkash,1,D35,val
+../Dataset/Wheat varieties dataset/Dilkash/D35/Dilkash (105).jpg,Dilkash,1,D35,val
+../Dataset/Wheat varieties dataset/Dilkash/D32/Dilkash (94).jpg,Dilkash,1,D32,test
+../Dataset/Wheat varieties dataset/Dilkash/D32/Dilkash (95).jpg,Dilkash,1,D32,test
+../Dataset/Wheat varieties dataset/Dilkash/D32/Dilkash (96).jpg,Dilkash,1,D32,test
+../Dataset/Wheat varieties dataset/Dilkash/D115/Dilkash (343).jpg,Dilkash,1,D115,test
+../Dataset/Wheat varieties dataset/Dilkash/D115/Dilkash (344).jpg,Dilkash,1,D115,test
+../Dataset/Wheat varieties dataset/Dilkash/D115/Dilkash (345).jpg,Dilkash,1,D115,test
+../Dataset/Wheat varieties dataset/Dilkash/D123/Dilkash (367).jpg,Dilkash,1,D123,train
+../Dataset/Wheat varieties dataset/Dilkash/D123/Dilkash (368).jpg,Dilkash,1,D123,train
+../Dataset/Wheat varieties dataset/Dilkash/D123/Dilkash (369).jpg,Dilkash,1,D123,train
+../Dataset/Wheat varieties dataset/Dilkash/D124/Dilkash (370).jpg,Dilkash,1,D124,test
+../Dataset/Wheat varieties dataset/Dilkash/D124/Dilkash (371).jpg,Dilkash,1,D124,test
+../Dataset/Wheat varieties dataset/Dilkash/D124/Dilkash (372).jpg,Dilkash,1,D124,test
+../Dataset/Wheat varieties dataset/Dilkash/D68/Dilkash (203).jpg,Dilkash,1,D68,test
+../Dataset/Wheat varieties dataset/Dilkash/D68/Dilkash (202).jpg,Dilkash,1,D68,test
+../Dataset/Wheat varieties dataset/Dilkash/D68/Dilkash (204).jpg,Dilkash,1,D68,test
+../Dataset/Wheat varieties dataset/Dilkash/D57/Dilkash (171).jpg,Dilkash,1,D57,train
+../Dataset/Wheat varieties dataset/Dilkash/D57/Dilkash (170).jpg,Dilkash,1,D57,train
+../Dataset/Wheat varieties dataset/Dilkash/D57/Dilkash (169).jpg,Dilkash,1,D57,train
+../Dataset/Wheat varieties dataset/Dilkash/D50/Dilkash (150).jpg,Dilkash,1,D50,val
+../Dataset/Wheat varieties dataset/Dilkash/D50/Dilkash (149).jpg,Dilkash,1,D50,val
+../Dataset/Wheat varieties dataset/Dilkash/D50/Dilkash (148).jpg,Dilkash,1,D50,val
+../Dataset/Wheat varieties dataset/Dilkash/D59/Dilkash (177).jpg,Dilkash,1,D59,train
+../Dataset/Wheat varieties dataset/Dilkash/D59/Dilkash (176).jpg,Dilkash,1,D59,train
+../Dataset/Wheat varieties dataset/Dilkash/D59/Dilkash (175).jpg,Dilkash,1,D59,train
+../Dataset/Wheat varieties dataset/Dilkash/D92/Dilkash (274).jpg,Dilkash,1,D92,train
+../Dataset/Wheat varieties dataset/Dilkash/D92/Dilkash (275).jpg,Dilkash,1,D92,train
+../Dataset/Wheat varieties dataset/Dilkash/D92/Dilkash (276).jpg,Dilkash,1,D92,train
+../Dataset/Wheat varieties dataset/Dilkash/D66/Dilkash (198).jpg,Dilkash,1,D66,train
+../Dataset/Wheat varieties dataset/Dilkash/D66/Dilkash (196).jpg,Dilkash,1,D66,train
+../Dataset/Wheat varieties dataset/Dilkash/D66/Dilkash (197).jpg,Dilkash,1,D66,train
+../Dataset/Wheat varieties dataset/Dilkash/D61/Dilkash (182).jpg,Dilkash,1,D61,train
+../Dataset/Wheat varieties dataset/Dilkash/D61/Dilkash (183).jpg,Dilkash,1,D61,train
+../Dataset/Wheat varieties dataset/Dilkash/D61/Dilkash (181).jpg,Dilkash,1,D61,train
+../Dataset/Wheat varieties dataset/Dilkash/D95/Dilkash (285).jpg,Dilkash,1,D95,train
+../Dataset/Wheat varieties dataset/Dilkash/D95/Dilkash (284).jpg,Dilkash,1,D95,train
+../Dataset/Wheat varieties dataset/Dilkash/D95/Dilkash (283).jpg,Dilkash,1,D95,train
+../Dataset/Wheat varieties dataset/Dilkash/D125/Dilkash (374).jpg,Dilkash,1,D125,train
+../Dataset/Wheat varieties dataset/Dilkash/D125/Dilkash (375).jpg,Dilkash,1,D125,train
+../Dataset/Wheat varieties dataset/Dilkash/D125/Dilkash (373).jpg,Dilkash,1,D125,train
+../Dataset/Wheat varieties dataset/Dilkash/D122/Dilkash (366).jpg,Dilkash,1,D122,train
+../Dataset/Wheat varieties dataset/Dilkash/D122/Dilkash (364).jpg,Dilkash,1,D122,train
+../Dataset/Wheat varieties dataset/Dilkash/D122/Dilkash (365).jpg,Dilkash,1,D122,train
+../Dataset/Wheat varieties dataset/Dilkash/D114/Dilkash (340).jpg,Dilkash,1,D114,train
+../Dataset/Wheat varieties dataset/Dilkash/D114/Dilkash (341).jpg,Dilkash,1,D114,train
+../Dataset/Wheat varieties dataset/Dilkash/D114/Dilkash (342).jpg,Dilkash,1,D114,train
+../Dataset/Wheat varieties dataset/Dilkash/D33/Dilkash (98).jpg,Dilkash,1,D33,train
+../Dataset/Wheat varieties dataset/Dilkash/D33/Dilkash (99).jpg,Dilkash,1,D33,train
+../Dataset/Wheat varieties dataset/Dilkash/D33/Dilkash (97).jpg,Dilkash,1,D33,train
+../Dataset/Wheat varieties dataset/Dilkash/D34/Dilkash (100).jpg,Dilkash,1,D34,train
+../Dataset/Wheat varieties dataset/Dilkash/D34/Dilkash (101).jpg,Dilkash,1,D34,train
+../Dataset/Wheat varieties dataset/Dilkash/D34/Dilkash (102).jpg,Dilkash,1,D34,train
+../Dataset/Wheat varieties dataset/Dilkash/D113/Dilkash (337).jpg,Dilkash,1,D113,train
+../Dataset/Wheat varieties dataset/Dilkash/D113/Dilkash (339).jpg,Dilkash,1,D113,train
+../Dataset/Wheat varieties dataset/Dilkash/D113/Dilkash (338).jpg,Dilkash,1,D113,train
+../Dataset/Wheat varieties dataset/Dilkash/D94/Dilkash (281).jpg,Dilkash,1,D94,train
+../Dataset/Wheat varieties dataset/Dilkash/D94/Dilkash (280).jpg,Dilkash,1,D94,train
+../Dataset/Wheat varieties dataset/Dilkash/D94/Dilkash (282).jpg,Dilkash,1,D94,train
+../Dataset/Wheat varieties dataset/Dilkash/D60/Dilkash (179).jpg,Dilkash,1,D60,test
+../Dataset/Wheat varieties dataset/Dilkash/D60/Dilkash (180).jpg,Dilkash,1,D60,test
+../Dataset/Wheat varieties dataset/Dilkash/D60/Dilkash (178).jpg,Dilkash,1,D60,test
+../Dataset/Wheat varieties dataset/Dilkash/D58/Dilkash (174).jpg,Dilkash,1,D58,test
+../Dataset/Wheat varieties dataset/Dilkash/D58/Dilkash (173).jpg,Dilkash,1,D58,test
+../Dataset/Wheat varieties dataset/Dilkash/D58/Dilkash (172).jpg,Dilkash,1,D58,test
+../Dataset/Wheat varieties dataset/Dilkash/D67/Dilkash (199).jpg,Dilkash,1,D67,train
+../Dataset/Wheat varieties dataset/Dilkash/D67/Dilkash (201).jpg,Dilkash,1,D67,train
+../Dataset/Wheat varieties dataset/Dilkash/D67/Dilkash (200).jpg,Dilkash,1,D67,train
+../Dataset/Wheat varieties dataset/Dilkash/D93/Dilkash (278).jpg,Dilkash,1,D93,train
+../Dataset/Wheat varieties dataset/Dilkash/D93/Dilkash (279).jpg,Dilkash,1,D93,train
+../Dataset/Wheat varieties dataset/Dilkash/D93/Dilkash (277).jpg,Dilkash,1,D93,train
+../Dataset/Wheat varieties dataset/Dilkash/D51/Dilkash (151).jpg,Dilkash,1,D51,train
+../Dataset/Wheat varieties dataset/Dilkash/D51/Dilkash (153).jpg,Dilkash,1,D51,train
+../Dataset/Wheat varieties dataset/Dilkash/D51/Dilkash (152).jpg,Dilkash,1,D51,train
+../Dataset/Wheat varieties dataset/Dilkash/D69/Dilkash (205).jpg,Dilkash,1,D69,val
+../Dataset/Wheat varieties dataset/Dilkash/D69/Dilkash (207).jpg,Dilkash,1,D69,val
+../Dataset/Wheat varieties dataset/Dilkash/D69/Dilkash (206).jpg,Dilkash,1,D69,val
+../Dataset/Wheat varieties dataset/Dilkash/D56/Dilkash (167).jpg,Dilkash,1,D56,train
+../Dataset/Wheat varieties dataset/Dilkash/D56/Dilkash (166).jpg,Dilkash,1,D56,train
+../Dataset/Wheat varieties dataset/Dilkash/D56/Dilkash (168).jpg,Dilkash,1,D56,train
+../Dataset/Wheat varieties dataset/Akbar/A4/IMG_7464.jpg,Akbar,0,A4,train
+../Dataset/Wheat varieties dataset/Akbar/A4/IMG_7462.jpg,Akbar,0,A4,train
+../Dataset/Wheat varieties dataset/Akbar/A4/IMG_7463.jpg,Akbar,0,A4,train
+../Dataset/Wheat varieties dataset/Akbar/A58/IMG_7677.jpg,Akbar,0,A58,test
+../Dataset/Wheat varieties dataset/Akbar/A58/IMG_7676.jpg,Akbar,0,A58,test
+../Dataset/Wheat varieties dataset/Akbar/A58/IMG_7674.jpg,Akbar,0,A58,test
+../Dataset/Wheat varieties dataset/Akbar/A67/IMG_7705.jpg,Akbar,0,A67,test
+../Dataset/Wheat varieties dataset/Akbar/A67/IMG_7704.jpg,Akbar,0,A67,test
+../Dataset/Wheat varieties dataset/Akbar/A67/IMG_7706.jpg,Akbar,0,A67,test
+../Dataset/Wheat varieties dataset/Akbar/A93/IMG_7785.jpg,Akbar,0,A93,train
+../Dataset/Wheat varieties dataset/Akbar/A93/IMG_7787.jpg,Akbar,0,A93,train
+../Dataset/Wheat varieties dataset/Akbar/A93/IMG_7786.jpg,Akbar,0,A93,train
+../Dataset/Wheat varieties dataset/Akbar/A3/IMG_7459.jpg,Akbar,0,A3,train
+../Dataset/Wheat varieties dataset/Akbar/A3/IMG_7461.jpg,Akbar,0,A3,train
+../Dataset/Wheat varieties dataset/Akbar/A3/IMG_7460.jpg,Akbar,0,A3,train
+../Dataset/Wheat varieties dataset/Akbar/A94/IMG_7790.jpg,Akbar,0,A94,train
+../Dataset/Wheat varieties dataset/Akbar/A94/IMG_7730.jpg,Akbar,0,A94,train
+../Dataset/Wheat varieties dataset/Akbar/A94/IMG_7729.jpg,Akbar,0,A94,train
+../Dataset/Wheat varieties dataset/Akbar/A60/IMG_7681.jpg,Akbar,0,A60,train
+../Dataset/Wheat varieties dataset/Akbar/A60/IMG_7682.jpg,Akbar,0,A60,train
+../Dataset/Wheat varieties dataset/Akbar/A60/IMG_7683.jpg,Akbar,0,A60,train
+../Dataset/Wheat varieties dataset/Akbar/A69/IMG_7711.jpg,Akbar,0,A69,train
+../Dataset/Wheat varieties dataset/Akbar/A69/IMG_7710.jpg,Akbar,0,A69,train
+../Dataset/Wheat varieties dataset/Akbar/A69/IMG_7712.jpg,Akbar,0,A69,train
+../Dataset/Wheat varieties dataset/Akbar/A103/IMG_0803.jpg,Akbar,0,A103,train
+../Dataset/Wheat varieties dataset/Akbar/A103/IMG_0802.jpg,Akbar,0,A103,train
+../Dataset/Wheat varieties dataset/Akbar/A103/IMG_0806.jpg,Akbar,0,A103,train
+../Dataset/Wheat varieties dataset/Akbar/A56/IMG_7669.jpg,Akbar,0,A56,train
+../Dataset/Wheat varieties dataset/Akbar/A56/IMG_7668.jpg,Akbar,0,A56,train
+../Dataset/Wheat varieties dataset/Akbar/A56/IMG_7670.jpg,Akbar,0,A56,train
+../Dataset/Wheat varieties dataset/Akbar/A51/IMG_7653.jpg,Akbar,0,A51,train
+../Dataset/Wheat varieties dataset/Akbar/A51/IMG_7652.jpg,Akbar,0,A51,train
+../Dataset/Wheat varieties dataset/Akbar/A51/IMG_7654.jpg,Akbar,0,A51,train
+../Dataset/Wheat varieties dataset/Akbar/A104/IMG_0808.jpg,Akbar,0,A104,train
+../Dataset/Wheat varieties dataset/Akbar/A104/IMG_0807.jpg,Akbar,0,A104,train
+../Dataset/Wheat varieties dataset/Akbar/A104/IMG_0811.jpg,Akbar,0,A104,train
+../Dataset/Wheat varieties dataset/Akbar/A34/IMG_7558.jpg,Akbar,0,A34,train
+../Dataset/Wheat varieties dataset/Akbar/A34/IMG_7559.jpg,Akbar,0,A34,train
+../Dataset/Wheat varieties dataset/Akbar/A34/IMG_7561.jpg,Akbar,0,A34,train
+../Dataset/Wheat varieties dataset/Akbar/A34/IMG_7560.jpg,Akbar,0,A34,train
+../Dataset/Wheat varieties dataset/Akbar/A33/IMG_7557.jpg,Akbar,0,A33,train
+../Dataset/Wheat varieties dataset/Akbar/A33/IMG_7508.jpg,Akbar,0,A33,train
+../Dataset/Wheat varieties dataset/Akbar/A33/IMG_7507.jpg,Akbar,0,A33,train
+../Dataset/Wheat varieties dataset/Akbar/A105/IMG_0818.jpg,Akbar,0,A105,val
+../Dataset/Wheat varieties dataset/Akbar/A105/IMG_0803.jpg,Akbar,0,A105,val
+../Dataset/Wheat varieties dataset/Akbar/A105/IMG_0812.jpg,Akbar,0,A105,val
+../Dataset/Wheat varieties dataset/Akbar/A50/IMG_7618.jpg,Akbar,0,A50,train
+../Dataset/Wheat varieties dataset/Akbar/A50/IMG_7619.jpg,Akbar,0,A50,train
+../Dataset/Wheat varieties dataset/Akbar/A50/IMG_7617.jpg,Akbar,0,A50,train
+../Dataset/Wheat varieties dataset/Akbar/A68/IMG_7687.jpg,Akbar,0,A68,train
+../Dataset/Wheat varieties dataset/Akbar/A68/IMG_7688.jpg,Akbar,0,A68,train
+../Dataset/Wheat varieties dataset/Akbar/A68/IMG_7689.jpg,Akbar,0,A68,train
+../Dataset/Wheat varieties dataset/Akbar/A57/IMG_7671.jpg,Akbar,0,A57,train
+../Dataset/Wheat varieties dataset/Akbar/A57/IMG_7672.jpg,Akbar,0,A57,train
+../Dataset/Wheat varieties dataset/Akbar/A57/IMG_7673.jpg,Akbar,0,A57,train
+../Dataset/Wheat varieties dataset/Akbar/A102/IMG_0801.jpg,Akbar,0,A102,train
+../Dataset/Wheat varieties dataset/Akbar/A102/IMG_0796.jpg,Akbar,0,A102,train
+../Dataset/Wheat varieties dataset/Akbar/A102/IMG_0797.jpg,Akbar,0,A102,train
+../Dataset/Wheat varieties dataset/Akbar/A2/b.jpg,Akbar,0,A2,train
+../Dataset/Wheat varieties dataset/Akbar/A2/c.jpg,Akbar,0,A2,train
+../Dataset/Wheat varieties dataset/Akbar/A2/a.jpg,Akbar,0,A2,train
+../Dataset/Wheat varieties dataset/Akbar/A61/IMG_7686.jpg,Akbar,0,A61,test
+../Dataset/Wheat varieties dataset/Akbar/A61/IMG_7684.jpg,Akbar,0,A61,test
+../Dataset/Wheat varieties dataset/Akbar/A61/IMG_7685.jpg,Akbar,0,A61,test
+../Dataset/Wheat varieties dataset/Akbar/A95/IMG_7791.jpg,Akbar,0,A95,val
+../Dataset/Wheat varieties dataset/Akbar/A95/IMG_7792.jpg,Akbar,0,A95,val
+../Dataset/Wheat varieties dataset/Akbar/A95/IMG_7769.jpg,Akbar,0,A95,val
+../Dataset/Wheat varieties dataset/Akbar/A5/IMG_7468.jpg,Akbar,0,A5,train
+../Dataset/Wheat varieties dataset/Akbar/A5/IMG_7467.jpg,Akbar,0,A5,train
+../Dataset/Wheat varieties dataset/Akbar/A5/IMG_7466.jpg,Akbar,0,A5,train
+../Dataset/Wheat varieties dataset/Akbar/A59/IMG_7678.jpg,Akbar,0,A59,val
+../Dataset/Wheat varieties dataset/Akbar/A59/IMG_7679.jpg,Akbar,0,A59,val
+../Dataset/Wheat varieties dataset/Akbar/A59/IMG_7680.jpg,Akbar,0,A59,val
+../Dataset/Wheat varieties dataset/Akbar/A92/IMG_7784.jpg,Akbar,0,A92,train
+../Dataset/Wheat varieties dataset/Akbar/A92/Screenshot 2024-09-10 093943.jpg,Akbar,0,A92,train
+../Dataset/Wheat varieties dataset/Akbar/A92/IMG_7783.jpg,Akbar,0,A92,train
+../Dataset/Wheat varieties dataset/Akbar/A66/IMG_7699.jpg,Akbar,0,A66,train
+../Dataset/Wheat varieties dataset/Akbar/A66/IMG_7702.jpg,Akbar,0,A66,train
+../Dataset/Wheat varieties dataset/Akbar/A66/IMG_7700.jpg,Akbar,0,A66,train
+../Dataset/Wheat varieties dataset/Akbar/A32/IMG_7552.jpg,Akbar,0,A32,train
+../Dataset/Wheat varieties dataset/Akbar/A32/IMG_7553.jpg,Akbar,0,A32,train
+../Dataset/Wheat varieties dataset/Akbar/A32/IMG_7554.jpg,Akbar,0,A32,train
+../Dataset/Wheat varieties dataset/Akbar/A35/IMG_7564.jpg,Akbar,0,A35,train
+../Dataset/Wheat varieties dataset/Akbar/A35/IMG_7562.jpg,Akbar,0,A35,train
+../Dataset/Wheat varieties dataset/Akbar/A35/IMG_7563.jpg,Akbar,0,A35,train
+../Dataset/Wheat varieties dataset/Akbar/A19/IMG_7513.jpg,Akbar,0,A19,train
+../Dataset/Wheat varieties dataset/Akbar/A19/IMG_7512.jpg,Akbar,0,A19,train
+../Dataset/Wheat varieties dataset/Akbar/A19/IMG_7514.jpg,Akbar,0,A19,train
+../Dataset/Wheat varieties dataset/Akbar/A26/IMG_7534.jpg,Akbar,0,A26,val
+../Dataset/Wheat varieties dataset/Akbar/A26/IMG_7535.jpg,Akbar,0,A26,val
+../Dataset/Wheat varieties dataset/Akbar/A26/IMG_7536.jpg,Akbar,0,A26,val
+../Dataset/Wheat varieties dataset/Akbar/A21/IMG_7530.jpg,Akbar,0,A21,train
+../Dataset/Wheat varieties dataset/Akbar/A21/IMG_7520.jpg,Akbar,0,A21,train
+../Dataset/Wheat varieties dataset/Akbar/A21/IMG_7529.jpg,Akbar,0,A21,train
+../Dataset/Wheat varieties dataset/Akbar/A28/IMG_7542.jpg,Akbar,0,A28,train
+../Dataset/Wheat varieties dataset/Akbar/A28/IMG_7540.jpg,Akbar,0,A28,train
+../Dataset/Wheat varieties dataset/Akbar/A28/IMG_7541.jpg,Akbar,0,A28,train
+../Dataset/Wheat varieties dataset/Akbar/A17/IMG_7506.jpg,Akbar,0,A17,test
+../Dataset/Wheat varieties dataset/Akbar/A17/IMG_7504.jpg,Akbar,0,A17,test
+../Dataset/Wheat varieties dataset/Akbar/A17/IMG_7505.jpg,Akbar,0,A17,test
+../Dataset/Wheat varieties dataset/Akbar/A10/IMG_7484.jpg,Akbar,0,A10,train
+../Dataset/Wheat varieties dataset/Akbar/A10/IMG_7483.jpg,Akbar,0,A10,train
+../Dataset/Wheat varieties dataset/Akbar/A10/IMG_7482.jpg,Akbar,0,A10,train
+../Dataset/Wheat varieties dataset/Akbar/A44/IMG_7595.jpg,Akbar,0,A44,train
+../Dataset/Wheat varieties dataset/Akbar/A44/IMG_7597.jpg,Akbar,0,A44,train
+../Dataset/Wheat varieties dataset/Akbar/A44/IMG_7596.jpg,Akbar,0,A44,train
+../Dataset/Wheat varieties dataset/Akbar/A111/IMG_0837.jpg,Akbar,0,A111,train
+../Dataset/Wheat varieties dataset/Akbar/A111/IMG_0841.jpg,Akbar,0,A111,train
+../Dataset/Wheat varieties dataset/Akbar/A111/IMG_0839.jpg,Akbar,0,A111,train
+../Dataset/Wheat varieties dataset/Akbar/A116/IMG_0865.jpg,Akbar,0,A116,train
+../Dataset/Wheat varieties dataset/Akbar/A116/IMG_0864.jpg,Akbar,0,A116,train
+../Dataset/Wheat varieties dataset/Akbar/A116/IMG_0866.jpg,Akbar,0,A116,train
+../Dataset/Wheat varieties dataset/Akbar/A43/IMG_7592.jpg,Akbar,0,A43,test
+../Dataset/Wheat varieties dataset/Akbar/A43/IMG_7593.jpg,Akbar,0,A43,test
+../Dataset/Wheat varieties dataset/Akbar/A43/IMG_7591.jpg,Akbar,0,A43,test
+../Dataset/Wheat varieties dataset/Akbar/A43/IMG_7594.jpg,Akbar,0,A43,test
+../Dataset/Wheat varieties dataset/Akbar/A88/IMG_7772.jpg,Akbar,0,A88,train
+../Dataset/Wheat varieties dataset/Akbar/A88/IMG_7771.jpg,Akbar,0,A88,train
+../Dataset/Wheat varieties dataset/Akbar/A88/IMG_7770.jpg,Akbar,0,A88,train
+../Dataset/Wheat varieties dataset/Akbar/A120/IMG_0881.jpg,Akbar,0,A120,train
+../Dataset/Wheat varieties dataset/Akbar/A120/IMG_0883.jpg,Akbar,0,A120,train
+../Dataset/Wheat varieties dataset/Akbar/A120/IMG_0879.jpg,Akbar,0,A120,train
+../Dataset/Wheat varieties dataset/Akbar/A75/IMG_7731.jpg,Akbar,0,A75,train
+../Dataset/Wheat varieties dataset/Akbar/A75/IMG_7732.jpg,Akbar,0,A75,train
+../Dataset/Wheat varieties dataset/Akbar/A75/IMG_7722.jpg,Akbar,0,A75,train
+../Dataset/Wheat varieties dataset/Akbar/A81/IMG_7750.jpg,Akbar,0,A81,test
+../Dataset/Wheat varieties dataset/Akbar/A81/IMG_7748.jpg,Akbar,0,A81,test
+../Dataset/Wheat varieties dataset/Akbar/A81/IMG_7749.jpg,Akbar,0,A81,test
+../Dataset/Wheat varieties dataset/Akbar/A86/IMG_7766.jpg,Akbar,0,A86,train
+../Dataset/Wheat varieties dataset/Akbar/A86/IMG_7765.jpg,Akbar,0,A86,train
+../Dataset/Wheat varieties dataset/Akbar/A86/IMG_7764.jpg,Akbar,0,A86,train
+../Dataset/Wheat varieties dataset/Akbar/A72/IMG_7724.jpg,Akbar,0,A72,train
+../Dataset/Wheat varieties dataset/Akbar/A72/IMG_7725.jpg,Akbar,0,A72,train
+../Dataset/Wheat varieties dataset/Akbar/A72/IMG_7723.jpg,Akbar,0,A72,train
+../Dataset/Wheat varieties dataset/Akbar/A118/IMG_0874.jpg,Akbar,0,A118,train
+../Dataset/Wheat varieties dataset/Akbar/A118/IMG_0872.jpg,Akbar,0,A118,train
+../Dataset/Wheat varieties dataset/Akbar/A118/IMG_0873.jpg,Akbar,0,A118,train
+../Dataset/Wheat varieties dataset/Akbar/A11/IMG_7485.jpg,Akbar,0,A11,train
+../Dataset/Wheat varieties dataset/Akbar/A11/IMG_7486.jpg,Akbar,0,A11,train
+../Dataset/Wheat varieties dataset/Akbar/A29/IMG_7545.jpg,Akbar,0,A29,train
+../Dataset/Wheat varieties dataset/Akbar/A29/IMG_7544.jpg,Akbar,0,A29,train
+../Dataset/Wheat varieties dataset/Akbar/A29/IMG_7543.jpg,Akbar,0,A29,train
+../Dataset/Wheat varieties dataset/Akbar/A16/IMG_7502.jpg,Akbar,0,A16,train
+../Dataset/Wheat varieties dataset/Akbar/A16/IMG_7503.jpg,Akbar,0,A16,train
+../Dataset/Wheat varieties dataset/Akbar/A20/IMG_7515.jpg,Akbar,0,A20,test
+../Dataset/Wheat varieties dataset/Akbar/A20/IMG_7516.jpg,Akbar,0,A20,test
+../Dataset/Wheat varieties dataset/Akbar/A20/IMG_7517.jpg,Akbar,0,A20,test
+../Dataset/Wheat varieties dataset/Akbar/A18/IMG_7509.jpg,Akbar,0,A18,train
+../Dataset/Wheat varieties dataset/Akbar/A18/IMG_7510.jpg,Akbar,0,A18,train
+../Dataset/Wheat varieties dataset/Akbar/A18/IMG_7511.jpg,Akbar,0,A18,train
+../Dataset/Wheat varieties dataset/Akbar/A27/IMG_7537.jpg,Akbar,0,A27,train
+../Dataset/Wheat varieties dataset/Akbar/A27/IMG_7538.jpg,Akbar,0,A27,train
+../Dataset/Wheat varieties dataset/Akbar/A27/IMG_7539.jpg,Akbar,0,A27,train
+../Dataset/Wheat varieties dataset/Akbar/A73/IMG_7727.jpg,Akbar,0,A73,train
+../Dataset/Wheat varieties dataset/Akbar/A73/IMG_7726.jpg,Akbar,0,A73,train
+../Dataset/Wheat varieties dataset/Akbar/A73/IMG_7728.jpg,Akbar,0,A73,train
+../Dataset/Wheat varieties dataset/Akbar/A87/IMG_7769.jpg,Akbar,0,A87,val
+../Dataset/Wheat varieties dataset/Akbar/A87/IMG_7768.jpg,Akbar,0,A87,val
+../Dataset/Wheat varieties dataset/Akbar/A87/IMG_7767.jpg,Akbar,0,A87,val
+../Dataset/Wheat varieties dataset/Akbar/A119/IMG_0878.jpg,Akbar,0,A119,train
+../Dataset/Wheat varieties dataset/Akbar/A119/IMG_0876.jpg,Akbar,0,A119,train
+../Dataset/Wheat varieties dataset/Akbar/A119/IMG_0875.jpg,Akbar,0,A119,train
+../Dataset/Wheat varieties dataset/Akbar/A80/IMG_7747.jpg,Akbar,0,A80,train
+../Dataset/Wheat varieties dataset/Akbar/A80/IMG_7746.jpg,Akbar,0,A80,train
+../Dataset/Wheat varieties dataset/Akbar/A80/IMG_7745.jpg,Akbar,0,A80,train
+../Dataset/Wheat varieties dataset/Akbar/A74/IMG_7730.jpg,Akbar,0,A74,train
+../Dataset/Wheat varieties dataset/Akbar/A74/IMG_7695.jpg,Akbar,0,A74,train
+../Dataset/Wheat varieties dataset/Akbar/A74/IMG_7729.jpg,Akbar,0,A74,train
+../Dataset/Wheat varieties dataset/Akbar/A121/IMG_0887.jpg,Akbar,0,A121,train
+../Dataset/Wheat varieties dataset/Akbar/A121/IMG_0886.jpg,Akbar,0,A121,train
+../Dataset/Wheat varieties dataset/Akbar/A121/IMG_0888.jpg,Akbar,0,A121,train
+../Dataset/Wheat varieties dataset/Akbar/A42/IMG_7590.jpg,Akbar,0,A42,val
+../Dataset/Wheat varieties dataset/Akbar/A42/IMG_7589.jpg,Akbar,0,A42,val
+../Dataset/Wheat varieties dataset/Akbar/A42/IMG_7588.jpg,Akbar,0,A42,val
+../Dataset/Wheat varieties dataset/Akbar/A117/IMG_0868.jpg,Akbar,0,A117,val
+../Dataset/Wheat varieties dataset/Akbar/A117/IMG_0870.jpg,Akbar,0,A117,val
+../Dataset/Wheat varieties dataset/Akbar/A117/IMG_0867.jpg,Akbar,0,A117,val
+../Dataset/Wheat varieties dataset/Akbar/A89/IMG_7773.jpg,Akbar,0,A89,test
+../Dataset/Wheat varieties dataset/Akbar/A89/IMG_7774.jpg,Akbar,0,A89,test
+../Dataset/Wheat varieties dataset/Akbar/A89/IMG_7775.jpg,Akbar,0,A89,test
+../Dataset/Wheat varieties dataset/Akbar/A110/IMG_0835.jpg,Akbar,0,A110,val
+../Dataset/Wheat varieties dataset/Akbar/A110/IMG_0834.jpg,Akbar,0,A110,val
+../Dataset/Wheat varieties dataset/Akbar/A110/IMG_0836.jpg,Akbar,0,A110,val
+../Dataset/Wheat varieties dataset/Akbar/A45/IMG_7598.jpg,Akbar,0,A45,train
+../Dataset/Wheat varieties dataset/Akbar/A45/IMG_7599.jpg,Akbar,0,A45,train
+../Dataset/Wheat varieties dataset/Akbar/A45/IMG_7600.jpg,Akbar,0,A45,train
+../Dataset/Wheat varieties dataset/Akbar/A39/IMG_7576.jpg,Akbar,0,A39,train
+../Dataset/Wheat varieties dataset/Akbar/A39/IMG_7575.jpg,Akbar,0,A39,train
+../Dataset/Wheat varieties dataset/Akbar/A39/IMG_7574.jpg,Akbar,0,A39,train
+../Dataset/Wheat varieties dataset/Akbar/A30/IMG_7530.jpg,Akbar,0,A30,test
+../Dataset/Wheat varieties dataset/Akbar/A30/IMG_7529.jpg,Akbar,0,A30,test
+../Dataset/Wheat varieties dataset/Akbar/A30/IMG_7548.jpg,Akbar,0,A30,test
+../Dataset/Wheat varieties dataset/Akbar/A37/IMG_7594.jpg,Akbar,0,A37,train
+../Dataset/Wheat varieties dataset/Akbar/A37/IMG_7568.jpg,Akbar,0,A37,train
+../Dataset/Wheat varieties dataset/Akbar/A37/IMG_7569.jpg,Akbar,0,A37,train
+../Dataset/Wheat varieties dataset/Akbar/A37/IMG_7570.jpg,Akbar,0,A37,train
+../Dataset/Wheat varieties dataset/Akbar/A109/IMG_0833.jpg,Akbar,0,A109,train
+../Dataset/Wheat varieties dataset/Akbar/A109/IMG_0832.jpg,Akbar,0,A109,train
+../Dataset/Wheat varieties dataset/Akbar/A109/IMG_0831.jpg,Akbar,0,A109,train
+../Dataset/Wheat varieties dataset/Akbar/A97/IMG_0768 - Copy.jpg,Akbar,0,A97,train
+../Dataset/Wheat varieties dataset/Akbar/A97/IMG_0770.jpg,Akbar,0,A97,train
+../Dataset/Wheat varieties dataset/Akbar/A97/IMG_0769.jpg,Akbar,0,A97,train
+../Dataset/Wheat varieties dataset/Akbar/A63/IMG_7692.jpg,Akbar,0,A63,train
+../Dataset/Wheat varieties dataset/Akbar/A63/IMG_7690.jpg,Akbar,0,A63,train
+../Dataset/Wheat varieties dataset/Akbar/A63/IMG_7691.jpg,Akbar,0,A63,train
+../Dataset/Wheat varieties dataset/Akbar/A7/IMG_7473.jpg,Akbar,0,A7,train
+../Dataset/Wheat varieties dataset/Akbar/A7/IMG_7472.jpg,Akbar,0,A7,train
+../Dataset/Wheat varieties dataset/Akbar/A7/IMG_7474.jpg,Akbar,0,A7,train
+../Dataset/Wheat varieties dataset/Akbar/A64/IMG_7693.jpg,Akbar,0,A64,train
+../Dataset/Wheat varieties dataset/Akbar/A64/IMG_7695.jpg,Akbar,0,A64,train
+../Dataset/Wheat varieties dataset/Akbar/A64/IMG_7694.jpg,Akbar,0,A64,train
+../Dataset/Wheat varieties dataset/Akbar/A90/IMG_7778.jpg,Akbar,0,A90,train
+../Dataset/Wheat varieties dataset/Akbar/A90/IMG_7777.jpg,Akbar,0,A90,train
+../Dataset/Wheat varieties dataset/Akbar/A90/IMG_7776.jpg,Akbar,0,A90,train
+../Dataset/Wheat varieties dataset/Akbar/A99/IMG_0780..jpg,Akbar,0,A99,test
+../Dataset/Wheat varieties dataset/Akbar/A99/IMG_0782.jpg,Akbar,0,A99,test
+../Dataset/Wheat varieties dataset/Akbar/A99/IMG_0783.jpg,Akbar,0,A99,test
+../Dataset/Wheat varieties dataset/Akbar/A107/IMG_0823.jpg,Akbar,0,A107,train
+../Dataset/Wheat varieties dataset/Akbar/A107/IMG_0826.jpg,Akbar,0,A107,train
+../Dataset/Wheat varieties dataset/Akbar/A107/IMG_0824.jpg,Akbar,0,A107,train
+../Dataset/Wheat varieties dataset/Akbar/A52/IMG_7656.jpg,Akbar,0,A52,train
+../Dataset/Wheat varieties dataset/Akbar/A52/IMG_7657.jpg,Akbar,0,A52,train
+../Dataset/Wheat varieties dataset/Akbar/A52/IMG_7658.jpg,Akbar,0,A52,train
+../Dataset/Wheat varieties dataset/Akbar/A55/IMG_7665.jpg,Akbar,0,A55,val
+../Dataset/Wheat varieties dataset/Akbar/A55/IMG_7666.jpg,Akbar,0,A55,val
+../Dataset/Wheat varieties dataset/Akbar/A55/IMG_7667.jpg,Akbar,0,A55,val
+../Dataset/Wheat varieties dataset/Akbar/A100/IMG_0790.jpg,Akbar,0,A100,val
+../Dataset/Wheat varieties dataset/Akbar/A100/IMG_0785.jpg,Akbar,0,A100,val
+../Dataset/Wheat varieties dataset/Akbar/A100/IMG_0787.jpg,Akbar,0,A100,val
+../Dataset/Wheat varieties dataset/Akbar/A9/IMG_7481.jpg,Akbar,0,A9,train
+../Dataset/Wheat varieties dataset/Akbar/A36/IMG_7565.jpg,Akbar,0,A36,train
+../Dataset/Wheat varieties dataset/Akbar/A36/IMG_7567.jpg,Akbar,0,A36,train
+../Dataset/Wheat varieties dataset/Akbar/A36/IMG_7566.jpg,Akbar,0,A36,train
+../Dataset/Wheat varieties dataset/Akbar/A31/IMG_7551.jpg,Akbar,0,A31,train
+../Dataset/Wheat varieties dataset/Akbar/A31/IMG_7550.jpg,Akbar,0,A31,train
+../Dataset/Wheat varieties dataset/Akbar/A31/IMG_7549.jpg,Akbar,0,A31,train
+../Dataset/Wheat varieties dataset/Akbar/A38/IMG_7571.jpg,Akbar,0,A38,val
+../Dataset/Wheat varieties dataset/Akbar/A38/IMG_7573.jpg,Akbar,0,A38,val
+../Dataset/Wheat varieties dataset/Akbar/A38/IMG_7572.jpg,Akbar,0,A38,val
+../Dataset/Wheat varieties dataset/Akbar/A101/IMG_0791.jpg,Akbar,0,A101,train
+../Dataset/Wheat varieties dataset/Akbar/A101/IMG_0793.jpg,Akbar,0,A101,train
+../Dataset/Wheat varieties dataset/Akbar/A101/IMG_0795.jpg,Akbar,0,A101,train
+../Dataset/Wheat varieties dataset/Akbar/A54/IMG_7664.jpg,Akbar,0,A54,train
+../Dataset/Wheat varieties dataset/Akbar/A54/IMG_7663.jpg,Akbar,0,A54,train
+../Dataset/Wheat varieties dataset/Akbar/A54/IMG_7662.jpg,Akbar,0,A54,train
+../Dataset/Wheat varieties dataset/Akbar/A8/IMG_7478.jpg,Akbar,0,A8,val
+../Dataset/Wheat varieties dataset/Akbar/A8/IMG_7475.jpg,Akbar,0,A8,val
+../Dataset/Wheat varieties dataset/Akbar/A8/IMG_7476.jpg,Akbar,0,A8,val
+../Dataset/Wheat varieties dataset/Akbar/A98/IMG_0775.jpg,Akbar,0,A98,train
+../Dataset/Wheat varieties dataset/Akbar/A98/IMG_0777.jpg,Akbar,0,A98,train
+../Dataset/Wheat varieties dataset/Akbar/A98/IMG_0776.jpg,Akbar,0,A98,train
+../Dataset/Wheat varieties dataset/Akbar/A53/IMG_7659.jpg,Akbar,0,A53,train
+../Dataset/Wheat varieties dataset/Akbar/A53/IMG_7660.jpg,Akbar,0,A53,train
+../Dataset/Wheat varieties dataset/Akbar/A53/IMG_7661.jpg,Akbar,0,A53,train
+../Dataset/Wheat varieties dataset/Akbar/A106/IMG_0820.jpg,Akbar,0,A106,train
+../Dataset/Wheat varieties dataset/Akbar/A106/IMG_0822.jpg,Akbar,0,A106,train
+../Dataset/Wheat varieties dataset/Akbar/A106/IMG_0819.jpg,Akbar,0,A106,train
+../Dataset/Wheat varieties dataset/Akbar/A6/IMG_7469.jpg,Akbar,0,A6,val
+../Dataset/Wheat varieties dataset/Akbar/A6/IMG_7470.jpg,Akbar,0,A6,val
+../Dataset/Wheat varieties dataset/Akbar/A6/IMG_7471.jpg,Akbar,0,A6,val
+../Dataset/Wheat varieties dataset/Akbar/A91/IMG_7779.jpg,Akbar,0,A91,val
+../Dataset/Wheat varieties dataset/Akbar/A91/IMG_7781.jpg,Akbar,0,A91,val
+../Dataset/Wheat varieties dataset/Akbar/A91/IMG_7780.jpg,Akbar,0,A91,val
+../Dataset/Wheat varieties dataset/Akbar/A65/IMG_7694.jpg,Akbar,0,A65,test
+../Dataset/Wheat varieties dataset/Akbar/A65/IMG_7696.jpg,Akbar,0,A65,test
+../Dataset/Wheat varieties dataset/Akbar/A65/IMG_7698.jpg,Akbar,0,A65,test
+../Dataset/Wheat varieties dataset/Akbar/A108/IMG_0827.jpg,Akbar,0,A108,train
+../Dataset/Wheat varieties dataset/Akbar/A108/IMG_0830.jpg,Akbar,0,A108,train
+../Dataset/Wheat varieties dataset/Akbar/A108/IMG_0828.jpg,Akbar,0,A108,train
+../Dataset/Wheat varieties dataset/Akbar/A1/b.jpg,Akbar,0,A1,test
+../Dataset/Wheat varieties dataset/Akbar/A1/c.jpg,Akbar,0,A1,test
+../Dataset/Wheat varieties dataset/Akbar/A1/a.jpg,Akbar,0,A1,test
+../Dataset/Wheat varieties dataset/Akbar/A62/IMG_7687.jpg,Akbar,0,A62,train
+../Dataset/Wheat varieties dataset/Akbar/A62/IMG_7688.jpg,Akbar,0,A62,train
+../Dataset/Wheat varieties dataset/Akbar/A62/IMG_7689.jpg,Akbar,0,A62,train
+../Dataset/Wheat varieties dataset/Akbar/A96/IMG_7796.jpg,Akbar,0,A96,test
+../Dataset/Wheat varieties dataset/Akbar/A96/IMG_7795.jpg,Akbar,0,A96,test
+../Dataset/Wheat varieties dataset/Akbar/A96/IMG_7794.jpg,Akbar,0,A96,test
+../Dataset/Wheat varieties dataset/Akbar/A40/IMG_7530.jpg,Akbar,0,A40,train
+../Dataset/Wheat varieties dataset/Akbar/A40/IMG_7529.jpg,Akbar,0,A40,train
+../Dataset/Wheat varieties dataset/Akbar/A40/IMG_7548.jpg,Akbar,0,A40,train
+../Dataset/Wheat varieties dataset/Akbar/A115/IMG_0862.jpg,Akbar,0,A115,train
+../Dataset/Wheat varieties dataset/Akbar/A115/IMG_0860.jpg,Akbar,0,A115,train
+../Dataset/Wheat varieties dataset/Akbar/A115/IMG_0861.jpg,Akbar,0,A115,train
+../Dataset/Wheat varieties dataset/Akbar/A112/IMG_0842.jpg,Akbar,0,A112,train
+../Dataset/Wheat varieties dataset/Akbar/A112/IMG_0844.jpg,Akbar,0,A112,train
+../Dataset/Wheat varieties dataset/Akbar/A112/IMG_0848.jpg,Akbar,0,A112,train
+../Dataset/Wheat varieties dataset/Akbar/A47/IMG_7594.jpg,Akbar,0,A47,train
+../Dataset/Wheat varieties dataset/Akbar/A47/IMG_7608.jpg,Akbar,0,A47,train
+../Dataset/Wheat varieties dataset/Akbar/A47/IMG_7607.jpg,Akbar,0,A47,train
+../Dataset/Wheat varieties dataset/Akbar/A78/IMG_7741.jpg,Akbar,0,A78,train
+../Dataset/Wheat varieties dataset/Akbar/A78/IMG_7740.jpg,Akbar,0,A78,train
+../Dataset/Wheat varieties dataset/Akbar/A78/IMG_7739.jpg,Akbar,0,A78,train
+../Dataset/Wheat varieties dataset/Akbar/A85/IMG_7761.jpg,Akbar,0,A85,train
+../Dataset/Wheat varieties dataset/Akbar/A85/IMG_7763.jpg,Akbar,0,A85,train
+../Dataset/Wheat varieties dataset/Akbar/A85/IMG_7762.jpg,Akbar,0,A85,train
+../Dataset/Wheat varieties dataset/Akbar/A124/IMG_0908.jpg,Akbar,0,A124,test
+../Dataset/Wheat varieties dataset/Akbar/A124/IMG_0904.jpg,Akbar,0,A124,test
+../Dataset/Wheat varieties dataset/Akbar/A124/IMG_0906.jpg,Akbar,0,A124,test
+../Dataset/Wheat varieties dataset/Akbar/A71/IMG_7722.jpg,Akbar,0,A71,test
+../Dataset/Wheat varieties dataset/Akbar/A71/IMG_7721.jpg,Akbar,0,A71,test
+../Dataset/Wheat varieties dataset/Akbar/A71/IMG_7699.jpg,Akbar,0,A71,test
+../Dataset/Wheat varieties dataset/Akbar/A76/IMG_7733.jpg,Akbar,0,A76,train
+../Dataset/Wheat varieties dataset/Akbar/A76/IMG_7735.jpg,Akbar,0,A76,train
+../Dataset/Wheat varieties dataset/Akbar/A76/IMG_7734.jpg,Akbar,0,A76,train
+../Dataset/Wheat varieties dataset/Akbar/A123/IMG_0902.jpg,Akbar,0,A123,val
+../Dataset/Wheat varieties dataset/Akbar/A123/IMG_0899.jpg,Akbar,0,A123,val
+../Dataset/Wheat varieties dataset/Akbar/A123/IMG_0898.jpg,Akbar,0,A123,val
+../Dataset/Wheat varieties dataset/Akbar/A82/IMG_7753.jpg,Akbar,0,A82,test
+../Dataset/Wheat varieties dataset/Akbar/A82/IMG_7752.jpg,Akbar,0,A82,test
+../Dataset/Wheat varieties dataset/Akbar/A82/IMG_7751.jpg,Akbar,0,A82,test
+../Dataset/Wheat varieties dataset/Akbar/A49/IMG_7614.jpg,Akbar,0,A49,train
+../Dataset/Wheat varieties dataset/Akbar/A49/IMG_7615.jpg,Akbar,0,A49,train
+../Dataset/Wheat varieties dataset/Akbar/A49/IMG_7616.jpg,Akbar,0,A49,train
+../Dataset/Wheat varieties dataset/Akbar/A22/IMG_7524.jpg,Akbar,0,A22,train
+../Dataset/Wheat varieties dataset/Akbar/A22/IMG_7523.jpg,Akbar,0,A22,train
+../Dataset/Wheat varieties dataset/Akbar/A22/IMG_7522.jpg,Akbar,0,A22,train
+../Dataset/Wheat varieties dataset/Akbar/A25/IMG_7532.jpg,Akbar,0,A25,val
+../Dataset/Wheat varieties dataset/Akbar/A25/IMG_7533.jpg,Akbar,0,A25,val
+../Dataset/Wheat varieties dataset/Akbar/A25/IMG_7531.jpg,Akbar,0,A25,val
+../Dataset/Wheat varieties dataset/Akbar/A13/IMG_7491.jpg,Akbar,0,A13,train
+../Dataset/Wheat varieties dataset/Akbar/A13/IMG_7492.jpg,Akbar,0,A13,train
+../Dataset/Wheat varieties dataset/Akbar/A13/IMG_7493.jpg,Akbar,0,A13,train
+../Dataset/Wheat varieties dataset/Akbar/A14/IMG_7496.jpg,Akbar,0,A14,test
+../Dataset/Wheat varieties dataset/Akbar/A14/IMG_7494.jpg,Akbar,0,A14,test
+../Dataset/Wheat varieties dataset/Akbar/A14/IMG_7495.jpg,Akbar,0,A14,test
+../Dataset/Wheat varieties dataset/Akbar/A83/IMG_7755.jpg,Akbar,0,A83,train
+../Dataset/Wheat varieties dataset/Akbar/A83/IMG_7754.jpg,Akbar,0,A83,train
+../Dataset/Wheat varieties dataset/Akbar/A83/IMG_7756.jpg,Akbar,0,A83,train
+../Dataset/Wheat varieties dataset/Akbar/A122/IMG_0896.jpg,Akbar,0,A122,train
+../Dataset/Wheat varieties dataset/Akbar/A122/IMG_0890.jpg,Akbar,0,A122,train
+../Dataset/Wheat varieties dataset/Akbar/A122/IMG_0891.jpg,Akbar,0,A122,train
+../Dataset/Wheat varieties dataset/Akbar/A77/IMG_7736.jpg,Akbar,0,A77,train
+../Dataset/Wheat varieties dataset/Akbar/A77/IMG_7737.jpg,Akbar,0,A77,train
+../Dataset/Wheat varieties dataset/Akbar/A77/IMG_7738.jpg,Akbar,0,A77,train
+../Dataset/Wheat varieties dataset/Akbar/A48/IMG_7613.jpg,Akbar,0,A48,train
+../Dataset/Wheat varieties dataset/Akbar/A48/IMG_7571.jpg,Akbar,0,A48,train
+../Dataset/Wheat varieties dataset/Akbar/A48/IMG_7572.jpg,Akbar,0,A48,train
+../Dataset/Wheat varieties dataset/Akbar/A70/IMG_7666.jpg,Akbar,0,A70,test
+../Dataset/Wheat varieties dataset/Akbar/A70/IMG_7713.jpg,Akbar,0,A70,test
+../Dataset/Wheat varieties dataset/Akbar/A70/IMG_7714.jpg,Akbar,0,A70,test
+../Dataset/Wheat varieties dataset/Akbar/A125/IMG_0915.jpg,Akbar,0,A125,train
+../Dataset/Wheat varieties dataset/Akbar/A125/IMG_0910.jpg,Akbar,0,A125,train
+../Dataset/Wheat varieties dataset/Akbar/A125/IMG_0912.jpg,Akbar,0,A125,train
+../Dataset/Wheat varieties dataset/Akbar/A84/IMG_7757.jpg,Akbar,0,A84,val
+../Dataset/Wheat varieties dataset/Akbar/A84/IMG_7759.jpg,Akbar,0,A84,val
+../Dataset/Wheat varieties dataset/Akbar/A84/IMG_7760.jpg,Akbar,0,A84,val
+../Dataset/Wheat varieties dataset/Akbar/A46/IMG_7594.jpg,Akbar,0,A46,train
+../Dataset/Wheat varieties dataset/Akbar/A46/IMG_7601.jpg,Akbar,0,A46,train
+../Dataset/Wheat varieties dataset/Akbar/A46/IMG_7602.jpg,Akbar,0,A46,train
+../Dataset/Wheat varieties dataset/Akbar/A113/IMG_0854.jpg,Akbar,0,A113,train
+../Dataset/Wheat varieties dataset/Akbar/A113/IMG_0850.jpg,Akbar,0,A113,train
+../Dataset/Wheat varieties dataset/Akbar/A113/IMG_0852.jpg,Akbar,0,A113,train
+../Dataset/Wheat varieties dataset/Akbar/A79/IMG_7744.jpg,Akbar,0,A79,train
+../Dataset/Wheat varieties dataset/Akbar/A79/IMG_7742.jpg,Akbar,0,A79,train
+../Dataset/Wheat varieties dataset/Akbar/A79/IMG_7743.jpg,Akbar,0,A79,train
+../Dataset/Wheat varieties dataset/Akbar/A114/IMG_0857.jpg,Akbar,0,A114,test
+../Dataset/Wheat varieties dataset/Akbar/A114/IMG_0853.jpg,Akbar,0,A114,test
+../Dataset/Wheat varieties dataset/Akbar/A114/IMG_0859.jpg,Akbar,0,A114,test
+../Dataset/Wheat varieties dataset/Akbar/A41/IMG_7587.jpg,Akbar,0,A41,train
+../Dataset/Wheat varieties dataset/Akbar/A41/IMG_7581.jpg,Akbar,0,A41,train
+../Dataset/Wheat varieties dataset/Akbar/A41/IMG_7529.jpg,Akbar,0,A41,train
+../Dataset/Wheat varieties dataset/Akbar/A15/IMG_7497.jpg,Akbar,0,A15,train
+../Dataset/Wheat varieties dataset/Akbar/A15/IMG_7498.jpg,Akbar,0,A15,train
+../Dataset/Wheat varieties dataset/Akbar/A15/IMG_7499.jpg,Akbar,0,A15,train
+../Dataset/Wheat varieties dataset/Akbar/A12/IMG_7490.jpg,Akbar,0,A12,val
+../Dataset/Wheat varieties dataset/Akbar/A12/IMG_7489.jpg,Akbar,0,A12,val
+../Dataset/Wheat varieties dataset/Akbar/A12/IMG_7488.jpg,Akbar,0,A12,val
+../Dataset/Wheat varieties dataset/Akbar/A24/IMG_7530.jpg,Akbar,0,A24,train
+../Dataset/Wheat varieties dataset/Akbar/A24/IMG_7529.jpg,Akbar,0,A24,train
+../Dataset/Wheat varieties dataset/Akbar/A24/IMG_7528.jpg,Akbar,0,A24,train
+../Dataset/Wheat varieties dataset/Akbar/A23/IMG_7526.jpg,Akbar,0,A23,train
+../Dataset/Wheat varieties dataset/Akbar/A23/IMG_7527.jpg,Akbar,0,A23,train
+../Dataset/Wheat varieties dataset/Akbar/A23/IMG_7525.jpg,Akbar,0,A23,train
+../Dataset/Wheat varieties dataset/urooj/U98/urooj1 (292).jpg,urooj,2,U98,test
+../Dataset/Wheat varieties dataset/urooj/U98/urooj1 (293).jpg,urooj,2,U98,test
+../Dataset/Wheat varieties dataset/urooj/U98/urooj1 (294).jpg,urooj,2,U98,test
+../Dataset/Wheat varieties dataset/urooj/U53/b.jpg,urooj,2,U53,test
+../Dataset/Wheat varieties dataset/urooj/U53/c.jpg,urooj,2,U53,test
+../Dataset/Wheat varieties dataset/urooj/U53/a.jpg,urooj,2,U53,test
+../Dataset/Wheat varieties dataset/urooj/U9/b.jpg,urooj,2,U9,test
+../Dataset/Wheat varieties dataset/urooj/U9/c.jpg,urooj,2,U9,test
+../Dataset/Wheat varieties dataset/urooj/U9/a.jpg,urooj,2,U9,test
+../Dataset/Wheat varieties dataset/urooj/U54/b.jpg,urooj,2,U54,train
+../Dataset/Wheat varieties dataset/urooj/U54/c.jpg,urooj,2,U54,train
+../Dataset/Wheat varieties dataset/urooj/U54/a.jpg,urooj,2,U54,train
+../Dataset/Wheat varieties dataset/urooj/U7/b.jpg,urooj,2,U7,train
+../Dataset/Wheat varieties dataset/urooj/U7/c.jpg,urooj,2,U7,train
+../Dataset/Wheat varieties dataset/urooj/U7/a.jpg,urooj,2,U7,train
+../Dataset/Wheat varieties dataset/urooj/U62/b.jpg,urooj,2,U62,train
+../Dataset/Wheat varieties dataset/urooj/U62/c.jpg,urooj,2,U62,train
+../Dataset/Wheat varieties dataset/urooj/U62/a.jpg,urooj,2,U62,train
+../Dataset/Wheat varieties dataset/urooj/U96/urooj1 (286).jpg,urooj,2,U96,test
+../Dataset/Wheat varieties dataset/urooj/U96/urooj1 (287).jpg,urooj,2,U96,test
+../Dataset/Wheat varieties dataset/urooj/U96/urooj1 (288).jpg,urooj,2,U96,test
+../Dataset/Wheat varieties dataset/urooj/U91/urooj1 (273).jpg,urooj,2,U91,train
+../Dataset/Wheat varieties dataset/urooj/U91/urooj1 (272).jpg,urooj,2,U91,train
+../Dataset/Wheat varieties dataset/urooj/U91/urooj1 (271).jpg,urooj,2,U91,train
+../Dataset/Wheat varieties dataset/urooj/U65/b.jpg,urooj,2,U65,test
+../Dataset/Wheat varieties dataset/urooj/U65/c.jpg,urooj,2,U65,test
+../Dataset/Wheat varieties dataset/urooj/U65/a.jpg,urooj,2,U65,test
+../Dataset/Wheat varieties dataset/urooj/U31/b.jpg,urooj,2,U31,train
+../Dataset/Wheat varieties dataset/urooj/U31/c.jpg,urooj,2,U31,train
+../Dataset/Wheat varieties dataset/urooj/U31/a.jpg,urooj,2,U31,train
+../Dataset/Wheat varieties dataset/urooj/U36/b.jpg,urooj,2,U36,val
+../Dataset/Wheat varieties dataset/urooj/U36/c.jpg,urooj,2,U36,val
+../Dataset/Wheat varieties dataset/urooj/U36/a.jpg,urooj,2,U36,val
+../Dataset/Wheat varieties dataset/urooj/U38/b.jpg,urooj,2,U38,val
+../Dataset/Wheat varieties dataset/urooj/U38/c.jpg,urooj,2,U38,val
+../Dataset/Wheat varieties dataset/urooj/U38/a.jpg,urooj,2,U38,val
+../Dataset/Wheat varieties dataset/urooj/U1/b.jpg,urooj,2,U1,train
+../Dataset/Wheat varieties dataset/urooj/U1/c.jpg,urooj,2,U1,train
+../Dataset/Wheat varieties dataset/urooj/U1/a.jpg,urooj,2,U1,train
+../Dataset/Wheat varieties dataset/urooj/U64/b.jpg,urooj,2,U64,train
+../Dataset/Wheat varieties dataset/urooj/U64/c.jpg,urooj,2,U64,train
+../Dataset/Wheat varieties dataset/urooj/U64/a.jpg,urooj,2,U64,train
+../Dataset/Wheat varieties dataset/urooj/U90/urooj1 (269).jpg,urooj,2,U90,train
+../Dataset/Wheat varieties dataset/urooj/U90/urooj1 (268).jpg,urooj,2,U90,train
+../Dataset/Wheat varieties dataset/urooj/U90/urooj1 (270).jpg,urooj,2,U90,train
+../Dataset/Wheat varieties dataset/urooj/U6/b.jpg,urooj,2,U6,test
+../Dataset/Wheat varieties dataset/urooj/U6/c.jpg,urooj,2,U6,test
+../Dataset/Wheat varieties dataset/urooj/U6/a.jpg,urooj,2,U6,test
+../Dataset/Wheat varieties dataset/urooj/U97/urooj1 (290).jpg,urooj,2,U97,train
+../Dataset/Wheat varieties dataset/urooj/U97/urooj1 (291).jpg,urooj,2,U97,train
+../Dataset/Wheat varieties dataset/urooj/U97/urooj1 (289).jpg,urooj,2,U97,train
+../Dataset/Wheat varieties dataset/urooj/U63/b.jpg,urooj,2,U63,train
+../Dataset/Wheat varieties dataset/urooj/U63/c.jpg,urooj,2,U63,train
+../Dataset/Wheat varieties dataset/urooj/U63/a.jpg,urooj,2,U63,train
+../Dataset/Wheat varieties dataset/urooj/U55/b.jpg,urooj,2,U55,test
+../Dataset/Wheat varieties dataset/urooj/U55/c.jpg,urooj,2,U55,test
+../Dataset/Wheat varieties dataset/urooj/U55/a.jpg,urooj,2,U55,test
+../Dataset/Wheat varieties dataset/urooj/U99/urooj1 (296).jpg,urooj,2,U99,val
+../Dataset/Wheat varieties dataset/urooj/U99/urooj1 (297).jpg,urooj,2,U99,val
+../Dataset/Wheat varieties dataset/urooj/U99/urooj1 (295).jpg,urooj,2,U99,val
+../Dataset/Wheat varieties dataset/urooj/U8/b.jpg,urooj,2,U8,train
+../Dataset/Wheat varieties dataset/urooj/U8/c.jpg,urooj,2,U8,train
+../Dataset/Wheat varieties dataset/urooj/U8/a.jpg,urooj,2,U8,train
+../Dataset/Wheat varieties dataset/urooj/U52/b.jpg,urooj,2,U52,train
+../Dataset/Wheat varieties dataset/urooj/U52/c.jpg,urooj,2,U52,train
+../Dataset/Wheat varieties dataset/urooj/U52/a.jpg,urooj,2,U52,train
+../Dataset/Wheat varieties dataset/urooj/U39/b.jpg,urooj,2,U39,test
+../Dataset/Wheat varieties dataset/urooj/U39/c.jpg,urooj,2,U39,test
+../Dataset/Wheat varieties dataset/urooj/U39/a.jpg,urooj,2,U39,test
+../Dataset/Wheat varieties dataset/urooj/U37/b.jpg,urooj,2,U37,val
+../Dataset/Wheat varieties dataset/urooj/U37/c.jpg,urooj,2,U37,val
+../Dataset/Wheat varieties dataset/urooj/U37/a.jpg,urooj,2,U37,val
+../Dataset/Wheat varieties dataset/urooj/U30/b.jpg,urooj,2,U30,train
+../Dataset/Wheat varieties dataset/urooj/U30/c.jpg,urooj,2,U30,train
+../Dataset/Wheat varieties dataset/urooj/U30/a.jpg,urooj,2,U30,train
+../Dataset/Wheat varieties dataset/urooj/U109/urooj1 (326).jpg,urooj,2,U109,train
+../Dataset/Wheat varieties dataset/urooj/U109/urooj1 (327).jpg,urooj,2,U109,train
+../Dataset/Wheat varieties dataset/urooj/U109/urooj1 (325).jpg,urooj,2,U109,train
+../Dataset/Wheat varieties dataset/urooj/U100/urooj1 (300).jpg,urooj,2,U100,train
+../Dataset/Wheat varieties dataset/urooj/U100/urooj1 (298).jpg,urooj,2,U100,train
+../Dataset/Wheat varieties dataset/urooj/U100/urooj1 (299).jpg,urooj,2,U100,train
+../Dataset/Wheat varieties dataset/urooj/U107/urooj1 (320).jpg,urooj,2,U107,train
+../Dataset/Wheat varieties dataset/urooj/U107/urooj1 (321).jpg,urooj,2,U107,train
+../Dataset/Wheat varieties dataset/urooj/U107/urooj1 (319).jpg,urooj,2,U107,train
+../Dataset/Wheat varieties dataset/urooj/U106/urooj1 (316).jpg,urooj,2,U106,train
+../Dataset/Wheat varieties dataset/urooj/U106/urooj1 (317).jpg,urooj,2,U106,train
+../Dataset/Wheat varieties dataset/urooj/U106/urooj1 (318).jpg,urooj,2,U106,train
+../Dataset/Wheat varieties dataset/urooj/U101/urooj1 (301).jpg,urooj,2,U101,train
+../Dataset/Wheat varieties dataset/urooj/U101/urooj1 (302).jpg,urooj,2,U101,train
+../Dataset/Wheat varieties dataset/urooj/U101/urooj1 (303).jpg,urooj,2,U101,train
+../Dataset/Wheat varieties dataset/urooj/U108/urooj1 (322).jpg,urooj,2,U108,test
+../Dataset/Wheat varieties dataset/urooj/U108/urooj1 (323).jpg,urooj,2,U108,test
+../Dataset/Wheat varieties dataset/urooj/U108/urooj1 (324).jpg,urooj,2,U108,test
+../Dataset/Wheat varieties dataset/urooj/U112/urooj1 (336).jpg,urooj,2,U112,val
+../Dataset/Wheat varieties dataset/urooj/U112/urooj1 (334).jpg,urooj,2,U112,val
+../Dataset/Wheat varieties dataset/urooj/U112/urooj1 (335).jpg,urooj,2,U112,val
+../Dataset/Wheat varieties dataset/urooj/U115/urooj1 (343).jpg,urooj,2,U115,val
+../Dataset/Wheat varieties dataset/urooj/U115/urooj1 (345).jpg,urooj,2,U115,val
+../Dataset/Wheat varieties dataset/urooj/U115/urooj1 (344).jpg,urooj,2,U115,val
+../Dataset/Wheat varieties dataset/urooj/U123/urooj1 (367).jpg,urooj,2,U123,train
+../Dataset/Wheat varieties dataset/urooj/U123/urooj1 (369).jpg,urooj,2,U123,train
+../Dataset/Wheat varieties dataset/urooj/U123/urooj1 (368).jpg,urooj,2,U123,train
+../Dataset/Wheat varieties dataset/urooj/U124/urooj1 (371).jpg,urooj,2,U124,train
+../Dataset/Wheat varieties dataset/urooj/U124/urooj1 (370).jpg,urooj,2,U124,train
+../Dataset/Wheat varieties dataset/urooj/U124/urooj1 (372).jpg,urooj,2,U124,train
+../Dataset/Wheat varieties dataset/urooj/U125/urooj1 (375).jpg,urooj,2,U125,train
+../Dataset/Wheat varieties dataset/urooj/U125/urooj1 (374).jpg,urooj,2,U125,train
+../Dataset/Wheat varieties dataset/urooj/U125/urooj1 (373).jpg,urooj,2,U125,train
+../Dataset/Wheat varieties dataset/urooj/U122/urooj1 (366).jpg,urooj,2,U122,val
+../Dataset/Wheat varieties dataset/urooj/U122/urooj1 (365).jpg,urooj,2,U122,val
+../Dataset/Wheat varieties dataset/urooj/U122/urooj1 (364).jpg,urooj,2,U122,val
+../Dataset/Wheat varieties dataset/urooj/U114/urooj1 (341).jpg,urooj,2,U114,train
+../Dataset/Wheat varieties dataset/urooj/U114/urooj1 (340).jpg,urooj,2,U114,train
+../Dataset/Wheat varieties dataset/urooj/U114/urooj1 (342).jpg,urooj,2,U114,train
+../Dataset/Wheat varieties dataset/urooj/U113/urooj1 (337).jpg,urooj,2,U113,val
+../Dataset/Wheat varieties dataset/urooj/U113/urooj1 (338).jpg,urooj,2,U113,val
+../Dataset/Wheat varieties dataset/urooj/U113/urooj1 (339).jpg,urooj,2,U113,val
+../Dataset/Wheat varieties dataset/urooj/U12/b.jpg,urooj,2,U12,test
+../Dataset/Wheat varieties dataset/urooj/U12/c.jpg,urooj,2,U12,test
+../Dataset/Wheat varieties dataset/urooj/U12/a.jpg,urooj,2,U12,test
+../Dataset/Wheat varieties dataset/urooj/U15/b.jpg,urooj,2,U15,train
+../Dataset/Wheat varieties dataset/urooj/U15/c.jpg,urooj,2,U15,train
+../Dataset/Wheat varieties dataset/urooj/U15/a.jpg,urooj,2,U15,train
+../Dataset/Wheat varieties dataset/urooj/U23/b.jpg,urooj,2,U23,val
+../Dataset/Wheat varieties dataset/urooj/U23/c.jpg,urooj,2,U23,val
+../Dataset/Wheat varieties dataset/urooj/U23/a.jpg,urooj,2,U23,val
+../Dataset/Wheat varieties dataset/urooj/U24/b.jpg,urooj,2,U24,train
+../Dataset/Wheat varieties dataset/urooj/U24/c.jpg,urooj,2,U24,train
+../Dataset/Wheat varieties dataset/urooj/U24/a.jpg,urooj,2,U24,train
+../Dataset/Wheat varieties dataset/urooj/U70/b.jpg,urooj,2,U70,train
+../Dataset/Wheat varieties dataset/urooj/U70/c.jpg,urooj,2,U70,train
+../Dataset/Wheat varieties dataset/urooj/U70/a.jpg,urooj,2,U70,train
+../Dataset/Wheat varieties dataset/urooj/U84/urooj1 (252).jpg,urooj,2,U84,train
+../Dataset/Wheat varieties dataset/urooj/U84/urooj1 (251).jpg,urooj,2,U84,train
+../Dataset/Wheat varieties dataset/urooj/U84/urooj1 (250).jpg,urooj,2,U84,train
+../Dataset/Wheat varieties dataset/urooj/U83/urooj1 (249).jpg,urooj,2,U83,train
+../Dataset/Wheat varieties dataset/urooj/U83/urooj1 (248).jpg,urooj,2,U83,train
+../Dataset/Wheat varieties dataset/urooj/U83/urooj1 (247).jpg,urooj,2,U83,train
+../Dataset/Wheat varieties dataset/urooj/U77/b.jpg,urooj,2,U77,train
+../Dataset/Wheat varieties dataset/urooj/U77/c.jpg,urooj,2,U77,train
+../Dataset/Wheat varieties dataset/urooj/U77/a.jpg,urooj,2,U77,train
+../Dataset/Wheat varieties dataset/urooj/U48/b.jpg,urooj,2,U48,val
+../Dataset/Wheat varieties dataset/urooj/U48/c.jpg,urooj,2,U48,val
+../Dataset/Wheat varieties dataset/urooj/U48/a.jpg,urooj,2,U48,val
+../Dataset/Wheat varieties dataset/urooj/U41/b.jpg,urooj,2,U41,train
+../Dataset/Wheat varieties dataset/urooj/U41/c.jpg,urooj,2,U41,train
+../Dataset/Wheat varieties dataset/urooj/U41/a.jpg,urooj,2,U41,train
+../Dataset/Wheat varieties dataset/urooj/U46/b.jpg,urooj,2,U46,test
+../Dataset/Wheat varieties dataset/urooj/U46/c.jpg,urooj,2,U46,test
+../Dataset/Wheat varieties dataset/urooj/U46/a.jpg,urooj,2,U46,test
+../Dataset/Wheat varieties dataset/urooj/U79/b.jpg,urooj,2,U79,train
+../Dataset/Wheat varieties dataset/urooj/U79/c.jpg,urooj,2,U79,train
+../Dataset/Wheat varieties dataset/urooj/U79/a.jpg,urooj,2,U79,train
+../Dataset/Wheat varieties dataset/urooj/U25/b.jpg,urooj,2,U25,train
+../Dataset/Wheat varieties dataset/urooj/U25/c.jpg,urooj,2,U25,train
+../Dataset/Wheat varieties dataset/urooj/U25/a.jpg,urooj,2,U25,train
+../Dataset/Wheat varieties dataset/urooj/U22/b.jpg,urooj,2,U22,train
+../Dataset/Wheat varieties dataset/urooj/U22/c.jpg,urooj,2,U22,train
+../Dataset/Wheat varieties dataset/urooj/U22/a.jpg,urooj,2,U22,train
+../Dataset/Wheat varieties dataset/urooj/U14/b.jpg,urooj,2,U14,val
+../Dataset/Wheat varieties dataset/urooj/U14/c.jpg,urooj,2,U14,val
+../Dataset/Wheat varieties dataset/urooj/U14/a.jpg,urooj,2,U14,val
+../Dataset/Wheat varieties dataset/urooj/U13/b.jpg,urooj,2,U13,train
+../Dataset/Wheat varieties dataset/urooj/U13/c.jpg,urooj,2,U13,train
+../Dataset/Wheat varieties dataset/urooj/U13/a.jpg,urooj,2,U13,train
+../Dataset/Wheat varieties dataset/urooj/U47/b.jpg,urooj,2,U47,train
+../Dataset/Wheat varieties dataset/urooj/U47/c.jpg,urooj,2,U47,train
+../Dataset/Wheat varieties dataset/urooj/U47/a.jpg,urooj,2,U47,train
+../Dataset/Wheat varieties dataset/urooj/U78/b.jpg,urooj,2,U78,val
+../Dataset/Wheat varieties dataset/urooj/U78/c.jpg,urooj,2,U78,val
+../Dataset/Wheat varieties dataset/urooj/U78/a.jpg,urooj,2,U78,val
+../Dataset/Wheat varieties dataset/urooj/U40/b.jpg,urooj,2,U40,train
+../Dataset/Wheat varieties dataset/urooj/U40/c.jpg,urooj,2,U40,train
+../Dataset/Wheat varieties dataset/urooj/U40/a.jpg,urooj,2,U40,train
+../Dataset/Wheat varieties dataset/urooj/U76/b.jpg,urooj,2,U76,train
+../Dataset/Wheat varieties dataset/urooj/U76/c.jpg,urooj,2,U76,train
+../Dataset/Wheat varieties dataset/urooj/U76/a.jpg,urooj,2,U76,train
+../Dataset/Wheat varieties dataset/urooj/U82/urooj1 (245).jpg,urooj,2,U82,test
+../Dataset/Wheat varieties dataset/urooj/U82/urooj1 (244).jpg,urooj,2,U82,test
+../Dataset/Wheat varieties dataset/urooj/U82/urooj1 (246).jpg,urooj,2,U82,test
+../Dataset/Wheat varieties dataset/urooj/U49/b.jpg,urooj,2,U49,train
+../Dataset/Wheat varieties dataset/urooj/U49/c.jpg,urooj,2,U49,train
+../Dataset/Wheat varieties dataset/urooj/U49/a.jpg,urooj,2,U49,train
+../Dataset/Wheat varieties dataset/urooj/U85/urooj1 (255).jpg,urooj,2,U85,train
+../Dataset/Wheat varieties dataset/urooj/U85/urooj1 (254).jpg,urooj,2,U85,train
+../Dataset/Wheat varieties dataset/urooj/U85/urooj1 (253).jpg,urooj,2,U85,train
+../Dataset/Wheat varieties dataset/urooj/U71/b.jpg,urooj,2,U71,train
+../Dataset/Wheat varieties dataset/urooj/U71/c.jpg,urooj,2,U71,train
+../Dataset/Wheat varieties dataset/urooj/U71/a.jpg,urooj,2,U71,train
+../Dataset/Wheat varieties dataset/urooj/U35/b.jpg,urooj,2,U35,train
+../Dataset/Wheat varieties dataset/urooj/U35/c.jpg,urooj,2,U35,train
+../Dataset/Wheat varieties dataset/urooj/U35/a.jpg,urooj,2,U35,train
+../Dataset/Wheat varieties dataset/urooj/U32/b.jpg,urooj,2,U32,train
+../Dataset/Wheat varieties dataset/urooj/U32/c.jpg,urooj,2,U32,train
+../Dataset/Wheat varieties dataset/urooj/U32/a.jpg,urooj,2,U32,train
+../Dataset/Wheat varieties dataset/urooj/U68/a1.jpg,urooj,2,U68,train
+../Dataset/Wheat varieties dataset/urooj/U68/c.jpg,urooj,2,U68,train
+../Dataset/Wheat varieties dataset/urooj/U68/a.jpg,urooj,2,U68,train
+../Dataset/Wheat varieties dataset/urooj/U57/b.jpg,urooj,2,U57,train
+../Dataset/Wheat varieties dataset/urooj/U57/c.jpg,urooj,2,U57,train
+../Dataset/Wheat varieties dataset/urooj/U57/a.jpg,urooj,2,U57,train
+../Dataset/Wheat varieties dataset/urooj/U50/b.jpg,urooj,2,U50,train
+../Dataset/Wheat varieties dataset/urooj/U50/c.jpg,urooj,2,U50,train
+../Dataset/Wheat varieties dataset/urooj/U50/a.jpg,urooj,2,U50,train
+../Dataset/Wheat varieties dataset/urooj/U59/b.jpg,urooj,2,U59,val
+../Dataset/Wheat varieties dataset/urooj/U59/c.jpg,urooj,2,U59,val
+../Dataset/Wheat varieties dataset/urooj/U59/a.jpg,urooj,2,U59,val
+../Dataset/Wheat varieties dataset/urooj/U3/b.jpg,urooj,2,U3,train
+../Dataset/Wheat varieties dataset/urooj/U3/c.jpg,urooj,2,U3,train
+../Dataset/Wheat varieties dataset/urooj/U3/a.jpg,urooj,2,U3,train
+../Dataset/Wheat varieties dataset/urooj/U92/urooj1 (275).jpg,urooj,2,U92,train
+../Dataset/Wheat varieties dataset/urooj/U92/urooj1 (274).jpg,urooj,2,U92,train
+../Dataset/Wheat varieties dataset/urooj/U92/urooj1 (276).jpg,urooj,2,U92,train
+../Dataset/Wheat varieties dataset/urooj/U66/b.jpg,urooj,2,U66,train
+../Dataset/Wheat varieties dataset/urooj/U66/c.jpg,urooj,2,U66,train
+../Dataset/Wheat varieties dataset/urooj/U66/a.jpg,urooj,2,U66,train
+../Dataset/Wheat varieties dataset/urooj/U4/b.jpg,urooj,2,U4,train
+../Dataset/Wheat varieties dataset/urooj/U4/c.jpg,urooj,2,U4,train
+../Dataset/Wheat varieties dataset/urooj/U4/a.jpg,urooj,2,U4,train
+../Dataset/Wheat varieties dataset/urooj/U61/b.jpg,urooj,2,U61,train
+../Dataset/Wheat varieties dataset/urooj/U61/c.jpg,urooj,2,U61,train
+../Dataset/Wheat varieties dataset/urooj/U61/a.jpg,urooj,2,U61,train
+../Dataset/Wheat varieties dataset/urooj/U95/urooj1 (284).jpg,urooj,2,U95,train
+../Dataset/Wheat varieties dataset/urooj/U95/urooj1 (285).jpg,urooj,2,U95,train
+../Dataset/Wheat varieties dataset/urooj/U95/urooj1 (283).jpg,urooj,2,U95,train
+../Dataset/Wheat varieties dataset/urooj/U33/b.jpg,urooj,2,U33,train
+../Dataset/Wheat varieties dataset/urooj/U33/c.jpg,urooj,2,U33,train
+../Dataset/Wheat varieties dataset/urooj/U33/a.jpg,urooj,2,U33,train
+../Dataset/Wheat varieties dataset/urooj/U34/b.jpg,urooj,2,U34,train
+../Dataset/Wheat varieties dataset/urooj/U34/c.jpg,urooj,2,U34,train
+../Dataset/Wheat varieties dataset/urooj/U34/a.jpg,urooj,2,U34,train
+../Dataset/Wheat varieties dataset/urooj/U5/b.jpg,urooj,2,U5,train
+../Dataset/Wheat varieties dataset/urooj/U5/c.jpg,urooj,2,U5,train
+../Dataset/Wheat varieties dataset/urooj/U5/a.jpg,urooj,2,U5,train
+../Dataset/Wheat varieties dataset/urooj/U94/urooj1 (280).jpg,urooj,2,U94,train
+../Dataset/Wheat varieties dataset/urooj/U94/urooj1 (281).jpg,urooj,2,U94,train
+../Dataset/Wheat varieties dataset/urooj/U94/urooj1 (282).jpg,urooj,2,U94,train
+../Dataset/Wheat varieties dataset/urooj/U60/b.jpg,urooj,2,U60,test
+../Dataset/Wheat varieties dataset/urooj/U60/c.jpg,urooj,2,U60,test
+../Dataset/Wheat varieties dataset/urooj/U60/a.jpg,urooj,2,U60,test
+../Dataset/Wheat varieties dataset/urooj/U2/b.jpg,urooj,2,U2,train
+../Dataset/Wheat varieties dataset/urooj/U2/c.jpg,urooj,2,U2,train
+../Dataset/Wheat varieties dataset/urooj/U2/a.jpg,urooj,2,U2,train
+../Dataset/Wheat varieties dataset/urooj/U58/b.jpg,urooj,2,U58,val
+../Dataset/Wheat varieties dataset/urooj/U58/c.jpg,urooj,2,U58,val
+../Dataset/Wheat varieties dataset/urooj/U58/a.jpg,urooj,2,U58,val
+../Dataset/Wheat varieties dataset/urooj/U67/b.jpg,urooj,2,U67,train
+../Dataset/Wheat varieties dataset/urooj/U67/c.jpg,urooj,2,U67,train
+../Dataset/Wheat varieties dataset/urooj/U67/a.jpg,urooj,2,U67,train
+../Dataset/Wheat varieties dataset/urooj/U93/urooj1 (279).jpg,urooj,2,U93,train
+../Dataset/Wheat varieties dataset/urooj/U93/urooj1 (278).jpg,urooj,2,U93,train
+../Dataset/Wheat varieties dataset/urooj/U93/urooj1 (277).jpg,urooj,2,U93,train
+../Dataset/Wheat varieties dataset/urooj/U51/b.jpg,urooj,2,U51,train
+../Dataset/Wheat varieties dataset/urooj/U51/c.jpg,urooj,2,U51,train
+../Dataset/Wheat varieties dataset/urooj/U51/a.jpg,urooj,2,U51,train
+../Dataset/Wheat varieties dataset/urooj/U69/b.jpg,urooj,2,U69,train
+../Dataset/Wheat varieties dataset/urooj/U69/c.jpg,urooj,2,U69,train
+../Dataset/Wheat varieties dataset/urooj/U69/a.jpg,urooj,2,U69,train
+../Dataset/Wheat varieties dataset/urooj/U56/b.jpg,urooj,2,U56,train
+../Dataset/Wheat varieties dataset/urooj/U56/c.jpg,urooj,2,U56,train
+../Dataset/Wheat varieties dataset/urooj/U56/a.jpg,urooj,2,U56,train
+../Dataset/Wheat varieties dataset/urooj/U104/urooj1 (310).jpg,urooj,2,U104,train
+../Dataset/Wheat varieties dataset/urooj/U104/urooj1 (311).jpg,urooj,2,U104,train
+../Dataset/Wheat varieties dataset/urooj/U104/urooj1 (312).jpg,urooj,2,U104,train
+../Dataset/Wheat varieties dataset/urooj/U103/urooj1 (307).jpg,urooj,2,U103,test
+../Dataset/Wheat varieties dataset/urooj/U103/urooj1 (308).jpg,urooj,2,U103,test
+../Dataset/Wheat varieties dataset/urooj/U103/urooj1 (309).jpg,urooj,2,U103,test
+../Dataset/Wheat varieties dataset/urooj/U102/urooj1 (306).jpg,urooj,2,U102,test
+../Dataset/Wheat varieties dataset/urooj/U102/urooj1 (304).jpg,urooj,2,U102,test
+../Dataset/Wheat varieties dataset/urooj/U102/urooj1 (305).jpg,urooj,2,U102,test
+../Dataset/Wheat varieties dataset/urooj/U105/urooj1 (314).jpg,urooj,2,U105,test
+../Dataset/Wheat varieties dataset/urooj/U105/urooj1 (315).jpg,urooj,2,U105,test
+../Dataset/Wheat varieties dataset/urooj/U105/urooj1 (313).jpg,urooj,2,U105,test
+../Dataset/Wheat varieties dataset/urooj/U116/urooj1 (347).jpg,urooj,2,U116,val
+../Dataset/Wheat varieties dataset/urooj/U116/urooj1 (346).jpg,urooj,2,U116,val
+../Dataset/Wheat varieties dataset/urooj/U116/urooj1 (348).jpg,urooj,2,U116,val
+../Dataset/Wheat varieties dataset/urooj/U111/urooj1 (331).jpg,urooj,2,U111,train
+../Dataset/Wheat varieties dataset/urooj/U111/urooj1 (332).jpg,urooj,2,U111,train
+../Dataset/Wheat varieties dataset/urooj/U111/urooj1 (333).jpg,urooj,2,U111,train
+../Dataset/Wheat varieties dataset/urooj/U118/urooj1 (354).jpg,urooj,2,U118,val
+../Dataset/Wheat varieties dataset/urooj/U118/urooj1 (353).jpg,urooj,2,U118,val
+../Dataset/Wheat varieties dataset/urooj/U118/urooj1 (352).jpg,urooj,2,U118,val
+../Dataset/Wheat varieties dataset/urooj/U120/urooj1 (360).jpg,urooj,2,U120,train
+../Dataset/Wheat varieties dataset/urooj/U120/urooj1 (359).jpg,urooj,2,U120,train
+../Dataset/Wheat varieties dataset/urooj/U120/urooj1 (358).jpg,urooj,2,U120,train
+../Dataset/Wheat varieties dataset/urooj/U121/urooj1 (361).jpg,urooj,2,U121,train
+../Dataset/Wheat varieties dataset/urooj/U121/urooj1 (363).jpg,urooj,2,U121,train
+../Dataset/Wheat varieties dataset/urooj/U121/urooj1 (362).jpg,urooj,2,U121,train
+../Dataset/Wheat varieties dataset/urooj/U119/urooj1 (357).jpg,urooj,2,U119,train
+../Dataset/Wheat varieties dataset/urooj/U119/urooj1 (356).jpg,urooj,2,U119,train
+../Dataset/Wheat varieties dataset/urooj/U119/urooj1 (355).jpg,urooj,2,U119,train
+../Dataset/Wheat varieties dataset/urooj/U110/urooj1 (330).jpg,urooj,2,U110,train
+../Dataset/Wheat varieties dataset/urooj/U110/urooj1 (328).jpg,urooj,2,U110,train
+../Dataset/Wheat varieties dataset/urooj/U110/urooj1 (329).jpg,urooj,2,U110,train
+../Dataset/Wheat varieties dataset/urooj/U117/urooj1 (351).jpg,urooj,2,U117,val
+../Dataset/Wheat varieties dataset/urooj/U117/urooj1 (350).jpg,urooj,2,U117,val
+../Dataset/Wheat varieties dataset/urooj/U117/urooj1 (349).jpg,urooj,2,U117,val
+../Dataset/Wheat varieties dataset/urooj/U80/b.jpg,urooj,2,U80,train
+../Dataset/Wheat varieties dataset/urooj/U80/c.jpg,urooj,2,U80,train
+../Dataset/Wheat varieties dataset/urooj/U80/a.jpg,urooj,2,U80,train
+../Dataset/Wheat varieties dataset/urooj/U74/b.jpg,urooj,2,U74,train
+../Dataset/Wheat varieties dataset/urooj/U74/c.jpg,urooj,2,U74,train
+../Dataset/Wheat varieties dataset/urooj/U74/a.jpg,urooj,2,U74,train
+../Dataset/Wheat varieties dataset/urooj/U73/b.jpg,urooj,2,U73,val
+../Dataset/Wheat varieties dataset/urooj/U73/c.jpg,urooj,2,U73,val
+../Dataset/Wheat varieties dataset/urooj/U73/a.jpg,urooj,2,U73,val
+../Dataset/Wheat varieties dataset/urooj/U87/urooj1 (259).jpg,urooj,2,U87,train
+../Dataset/Wheat varieties dataset/urooj/U87/urooj1 (261).jpg,urooj,2,U87,train
+../Dataset/Wheat varieties dataset/urooj/U87/urooj1 (260).jpg,urooj,2,U87,train
+../Dataset/Wheat varieties dataset/urooj/U45/b.jpg,urooj,2,U45,test
+../Dataset/Wheat varieties dataset/urooj/U45/c.jpg,urooj,2,U45,test
+../Dataset/Wheat varieties dataset/urooj/U45/a.jpg,urooj,2,U45,test
+../Dataset/Wheat varieties dataset/urooj/U42/b.jpg,urooj,2,U42,test
+../Dataset/Wheat varieties dataset/urooj/U42/c.jpg,urooj,2,U42,test
+../Dataset/Wheat varieties dataset/urooj/U42/a.jpg,urooj,2,U42,test
+../Dataset/Wheat varieties dataset/urooj/U89/urooj1 (265).jpg,urooj,2,U89,train
+../Dataset/Wheat varieties dataset/urooj/U89/urooj1 (267).jpg,urooj,2,U89,train
+../Dataset/Wheat varieties dataset/urooj/U89/urooj1 (266).jpg,urooj,2,U89,train
+../Dataset/Wheat varieties dataset/urooj/U29/b.jpg,urooj,2,U29,train
+../Dataset/Wheat varieties dataset/urooj/U29/c.jpg,urooj,2,U29,train
+../Dataset/Wheat varieties dataset/urooj/U29/a.jpg,urooj,2,U29,train
+../Dataset/Wheat varieties dataset/urooj/U16/b.jpg,urooj,2,U16,train
+../Dataset/Wheat varieties dataset/urooj/U16/c.jpg,urooj,2,U16,train
+../Dataset/Wheat varieties dataset/urooj/U16/a.jpg,urooj,2,U16,train
+../Dataset/Wheat varieties dataset/urooj/U11/b.jpg,urooj,2,U11,train
+../Dataset/Wheat varieties dataset/urooj/U11/c.jpg,urooj,2,U11,train
+../Dataset/Wheat varieties dataset/urooj/U11/a.jpg,urooj,2,U11,train
+../Dataset/Wheat varieties dataset/urooj/U18/b.jpg,urooj,2,U18,train
+../Dataset/Wheat varieties dataset/urooj/U18/c.jpg,urooj,2,U18,train
+../Dataset/Wheat varieties dataset/urooj/U18/a.jpg,urooj,2,U18,train
+../Dataset/Wheat varieties dataset/urooj/U27/b.jpg,urooj,2,U27,train
+../Dataset/Wheat varieties dataset/urooj/U27/c.jpg,urooj,2,U27,train
+../Dataset/Wheat varieties dataset/urooj/U27/a.jpg,urooj,2,U27,train
+../Dataset/Wheat varieties dataset/urooj/U20/b.jpg,urooj,2,U20,train
+../Dataset/Wheat varieties dataset/urooj/U20/c.jpg,urooj,2,U20,train
+../Dataset/Wheat varieties dataset/urooj/U20/a.jpg,urooj,2,U20,train
+../Dataset/Wheat varieties dataset/urooj/U43/b.jpg,urooj,2,U43,train
+../Dataset/Wheat varieties dataset/urooj/U43/c.jpg,urooj,2,U43,train
+../Dataset/Wheat varieties dataset/urooj/U43/a.jpg,urooj,2,U43,train
+../Dataset/Wheat varieties dataset/urooj/U88/urooj1 (263).jpg,urooj,2,U88,train
+../Dataset/Wheat varieties dataset/urooj/U88/urooj1 (262).jpg,urooj,2,U88,train
+../Dataset/Wheat varieties dataset/urooj/U88/urooj1 (264).jpg,urooj,2,U88,train
+../Dataset/Wheat varieties dataset/urooj/U44/b.jpg,urooj,2,U44,train
+../Dataset/Wheat varieties dataset/urooj/U44/c.jpg,urooj,2,U44,train
+../Dataset/Wheat varieties dataset/urooj/U44/a.jpg,urooj,2,U44,train
+../Dataset/Wheat varieties dataset/urooj/U86/urooj1 (258).jpg,urooj,2,U86,train
+../Dataset/Wheat varieties dataset/urooj/U86/urooj1 (257).jpg,urooj,2,U86,train
+../Dataset/Wheat varieties dataset/urooj/U86/urooj1 (256).jpg,urooj,2,U86,train
+../Dataset/Wheat varieties dataset/urooj/U72/b.jpg,urooj,2,U72,train
+../Dataset/Wheat varieties dataset/urooj/U72/c.jpg,urooj,2,U72,train
+../Dataset/Wheat varieties dataset/urooj/U72/a.jpg,urooj,2,U72,train
+../Dataset/Wheat varieties dataset/urooj/U75/b.jpg,urooj,2,U75,train
+../Dataset/Wheat varieties dataset/urooj/U75/c.jpg,urooj,2,U75,train
+../Dataset/Wheat varieties dataset/urooj/U75/a.jpg,urooj,2,U75,train
+../Dataset/Wheat varieties dataset/urooj/U81/urooj1 (243).jpg,urooj,2,U81,test
+../Dataset/Wheat varieties dataset/urooj/U81/urooj1 (242).jpg,urooj,2,U81,test
+../Dataset/Wheat varieties dataset/urooj/U81/urooj1 (241).jpg,urooj,2,U81,test
+../Dataset/Wheat varieties dataset/urooj/U21/b.jpg,urooj,2,U21,train
+../Dataset/Wheat varieties dataset/urooj/U21/c.jpg,urooj,2,U21,train
+../Dataset/Wheat varieties dataset/urooj/U21/a.jpg,urooj,2,U21,train
+../Dataset/Wheat varieties dataset/urooj/U19/b.jpg,urooj,2,U19,train
+../Dataset/Wheat varieties dataset/urooj/U19/c.jpg,urooj,2,U19,train
+../Dataset/Wheat varieties dataset/urooj/U19/a.jpg,urooj,2,U19,train
+../Dataset/Wheat varieties dataset/urooj/U26/b.jpg,urooj,2,U26,train
+../Dataset/Wheat varieties dataset/urooj/U26/c.jpg,urooj,2,U26,train
+../Dataset/Wheat varieties dataset/urooj/U26/a.jpg,urooj,2,U26,train
+../Dataset/Wheat varieties dataset/urooj/U10/b.jpg,urooj,2,U10,train
+../Dataset/Wheat varieties dataset/urooj/U10/c.jpg,urooj,2,U10,train
+../Dataset/Wheat varieties dataset/urooj/U10/a.jpg,urooj,2,U10,train
+../Dataset/Wheat varieties dataset/urooj/U28/b.jpg,urooj,2,U28,val
+../Dataset/Wheat varieties dataset/urooj/U28/c.jpg,urooj,2,U28,val
+../Dataset/Wheat varieties dataset/urooj/U28/a.jpg,urooj,2,U28,val
+../Dataset/Wheat varieties dataset/urooj/U17/b.jpg,urooj,2,U17,train
+../Dataset/Wheat varieties dataset/urooj/U17/c.jpg,urooj,2,U17,train
+../Dataset/Wheat varieties dataset/urooj/U17/a.jpg,urooj,2,U17,train
